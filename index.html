@@ -112,7 +112,7 @@
 失败返回<code>FALSE</code>；</p></li>
 </ul>
 
-<p>示例代码数据库表格如下：</p>
+<p>示例代码数据库如下：</p>
 
 <table>
 <tr>
@@ -126,6 +126,18 @@
 <td>Ryuichi Sakamoto</td>
 <td>1990</td>
 <td>1</td>
+</tr>
+<tr>
+<td>Glee</td>
+<td>Groove Armada</td>
+<td>2001</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Glee</td>
+<td>Bran Van 3000</td>
+<td>1997</td>
+<td>5</td>
 </tr>
 </table>
 
@@ -150,8 +162,49 @@
 <span class="pl-s1">                                <span class="pl-c">//            ["id"]        =&gt; string(1) "1"                 }</span></span></pre></div>
 
 <ul>
-<li><p><code>SQL::update($sql)</code> 或 <code>SQL::runSql($sql)</code> 查询SQL，返回受影响的记录数，一般
-用于执行插入或更新操作；</p></li>
+<li>
+<code>SQL::update($sql)</code> 或 <code>SQL::runSql($sql)</code> 查询SQL，返回受影响的记录数，一般
+用于执行插入或更新操作；</li>
+</ul>
+
+<table>
+<tr>
+<td>titel</td>
+<td>interpret</td>
+<td>jahr</td>
+<td>id</td>
+</tr>
+<tr>
+<td>Beauty</td>
+<td>Ryuichi Sakamoto</td>
+<td>1990</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Glee</td>
+<td>Groove Armada</td>
+<td>2001</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Glee</td>
+<td>Bran Van 3000</td>
+<td>1997</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Hello</td>
+<td>My friends</td>
+<td>2015</td>
+<td>2</td>
+</tr>
+</table>
+
+<div class="highlight highlight-text-html-php"><pre><span class="pl-s1"><span class="pl-smi">$sql</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">'</span>insert into cds(titel, interpret, jahr ,id) values("Hello", "My friends", 2015, 2)<span class="pl-pds">'</span></span>;</span>
+<span class="pl-s1"><span class="pl-smi">$query</span> <span class="pl-k">=</span> <span class="pl-c1">SQL</span><span class="pl-k">::</span>update(<span class="pl-smi">$sql</span>);</span>
+<span class="pl-s1"><span class="pl-c1">var_dump</span>(<span class="pl-smi">$query</span>);  <span class="pl-c">//int(1) 返回受影响的记录数为1</span></span></pre></div>
+
+<ul>
 <li><p><code>SQL::id()</code> 或 <code>SQL::lastId()</code> 返回最后插入的一条记录的ID；</p></li>
 <li><p><code>SQL::errno()</code> 返回最后执行的一条SQL语句的出错号</p></li>
 <li><p><code>SQL::errmsg()</code> 返回最后执行的一条SQL语句的出错信息</p></li>
