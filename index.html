@@ -129,8 +129,6 @@
 </tr>
 </table>
 
-<p><br></p>
-
 <div class="highlight highlight-text-html-php"><pre><span class="pl-s1"><span class="pl-c">//数据库为cdcol,表为cds                       输出如下</span></span>
 <span class="pl-s1"><span class="pl-smi">$sql</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">'</span><span class="pl-s1"><span class="pl-k">SELECT</span> <span class="pl-k">*</span> <span class="pl-k">FROM</span>  <span class="pl-s"><span class="pl-pds">`</span>cds<span class="pl-pds">`</span></span> <span class="pl-k">LIMIT</span> <span class="pl-c1">0</span> , <span class="pl-c1">30</span></span><span class="pl-pds">'</span></span>;  <span class="pl-c">//title: titel     value: Beauty</span></span>
 <span class="pl-s1"><span class="pl-smi">$query</span><span class="pl-k">=</span><span class="pl-c1">SQL</span><span class="pl-k">::</span>getAll(<span class="pl-smi">$sql</span>);                    <span class="pl-c">//title: interpret value: Ryuichi Sakamoto</span></span>
@@ -141,8 +139,17 @@
 <span class="pl-s1">}</span></pre></div>
 
 <ul>
-<li><p><code>SQL::getOne($sql)</code> 或 <code>SQL::getLine($sql)</code> 查询SQL，仅返回第一条结果，
-失败返回<code>FALSE</code>；</p></li>
+<li>
+<code>SQL::getOne($sql)</code> 或 <code>SQL::getLine($sql)</code> 查询SQL，仅返回第一条结果，
+失败返回<code>FALSE</code>；</li>
+</ul>
+
+<div class="highlight highlight-text-html-php"><pre><span class="pl-s1"><span class="pl-smi">$sql</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">'</span><span class="pl-s1"><span class="pl-k">SELECT</span> <span class="pl-k">*</span> <span class="pl-k">FROM</span>  <span class="pl-s"><span class="pl-pds">`</span>cds<span class="pl-pds">`</span></span></span><span class="pl-pds">'</span></span>;  <span class="pl-c">//array(4) {  ["titel"]     =&gt; string(6) "Beauty" </span></span>
+<span class="pl-s1"><span class="pl-smi">$query</span><span class="pl-k">=</span><span class="pl-c1">SQL</span><span class="pl-k">::</span>getOne(<span class="pl-smi">$sql</span>);       <span class="pl-c">//            ["interpret"] =&gt; string(16)"Ryuichi Sakamoto" </span></span>
+<span class="pl-s1"><span class="pl-c1">var_dump</span>(<span class="pl-smi">$query</span>);               <span class="pl-c">//            ["jahr"]      =&gt; string(4) "1990" </span></span>
+<span class="pl-s1">                                <span class="pl-c">//            ["id"]        =&gt; string(1) "1"                 }</span></span></pre></div>
+
+<ul>
 <li><p><code>SQL::update($sql)</code> 或 <code>SQL::runSql($sql)</code> 查询SQL，返回受影响的记录数，一般
 用于执行插入或更新操作；</p></li>
 <li><p><code>SQL::id()</code> 或 <code>SQL::lastId()</code> 返回最后插入的一条记录的ID；</p></li>
