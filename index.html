@@ -112,6 +112,8 @@
 失败返回<code>FALSE</code>；</p></li>
 </ul>
 
+<p>示例代码数据库表格如下：</p>
+
 <table>
 <tr>
 <td>titel</td>
@@ -127,13 +129,13 @@
 </tr>
 </table>
 
-<div class="highlight highlight-text-html-php"><pre><span class="pl-s1"><span class="pl-smi">$sql</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">'</span><span class="pl-s1"><span class="pl-k">SELECT</span> <span class="pl-k">*</span> <span class="pl-k">FROM</span>  <span class="pl-s"><span class="pl-pds">`</span>cds<span class="pl-pds">`</span></span> <span class="pl-k">LIMIT</span> <span class="pl-c1">0</span> , <span class="pl-c1">30</span></span><span class="pl-pds">'</span></span>;</span>
-<span class="pl-s1"><span class="pl-smi">$query</span><span class="pl-k">=</span><span class="pl-c1">SQL</span><span class="pl-k">::</span>getAll(<span class="pl-smi">$sql</span>);</span>
-<span class="pl-s1"><span class="pl-c1">var_dump</span>(<span class="pl-smi">$query</span>[<span class="pl-c1">0</span>]);</span>
-<span class="pl-s1"><span class="pl-smi">$queery_first_array</span> <span class="pl-k">=</span> <span class="pl-smi">$query</span>[<span class="pl-c1">0</span>];</span>
-<span class="pl-s1"><span class="pl-c1">echo</span> <span class="pl-s"><span class="pl-pds">'</span>&lt;br&gt;<span class="pl-pds">'</span></span>;</span>
-<span class="pl-s1"><span class="pl-k">foreach</span>(<span class="pl-smi">$queery_first_array</span> <span class="pl-k">as</span> <span class="pl-smi">$k</span> <span class="pl-k">=&gt;</span> <span class="pl-smi">$v</span>){</span>
-<span class="pl-s1">  <span class="pl-c1">echo</span> <span class="pl-s"><span class="pl-pds">'</span>name: <span class="pl-pds">'</span></span><span class="pl-k">.</span><span class="pl-smi">$k</span><span class="pl-k">.</span><span class="pl-s"><span class="pl-pds">'</span>num: <span class="pl-pds">'</span></span><span class="pl-k">.</span><span class="pl-smi">$v</span><span class="pl-k">.</span><span class="pl-s"><span class="pl-pds">'</span>&lt;br&gt;<span class="pl-pds">'</span></span>;</span>
+<div class="highlight highlight-text-html-php"><pre><span class="pl-s1"><span class="pl-c">//数据库为cdcol,表为cds                       输出如下</span></span>
+<span class="pl-s1"><span class="pl-smi">$sql</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">'</span><span class="pl-s1"><span class="pl-k">SELECT</span> <span class="pl-k">*</span> <span class="pl-k">FROM</span>  <span class="pl-s"><span class="pl-pds">`</span>cds<span class="pl-pds">`</span></span> <span class="pl-k">LIMIT</span> <span class="pl-c1">0</span> , <span class="pl-c1">30</span></span><span class="pl-pds">'</span></span>;  <span class="pl-c">//title: titel     value: Beauty</span></span>
+<span class="pl-s1"><span class="pl-smi">$query</span><span class="pl-k">=</span><span class="pl-c1">SQL</span><span class="pl-k">::</span>getAll(<span class="pl-smi">$sql</span>);                    <span class="pl-c">//title: interpret value: Ryuichi Sakamoto</span></span>
+<span class="pl-s1"><span class="pl-smi">$query_first_array</span> <span class="pl-k">=</span> <span class="pl-smi">$query</span>[<span class="pl-c1">0</span>];             <span class="pl-c">//title: jahr      value: 1990</span></span>
+<span class="pl-s1"><span class="pl-c1">echo</span> <span class="pl-s"><span class="pl-pds">'</span>&lt;br&gt;<span class="pl-pds">'</span></span>;                                 <span class="pl-c">//title: id        value: 1</span></span>
+<span class="pl-s1"><span class="pl-k">foreach</span>(<span class="pl-smi">$query_first_array</span> <span class="pl-k">as</span> <span class="pl-smi">$k</span> <span class="pl-k">=&gt;</span> <span class="pl-smi">$v</span>){</span>
+<span class="pl-s1">  <span class="pl-c1">echo</span> <span class="pl-s"><span class="pl-pds">'</span>title: <span class="pl-pds">'</span></span><span class="pl-k">.</span><span class="pl-smi">$k</span><span class="pl-k">.</span><span class="pl-s"><span class="pl-pds">'</span> &lt;br&gt;value: <span class="pl-pds">'</span></span><span class="pl-k">.</span><span class="pl-smi">$v</span><span class="pl-k">.</span><span class="pl-s"><span class="pl-pds">'</span>&lt;br&gt;&lt;br&gt;<span class="pl-pds">'</span></span>;</span>
 <span class="pl-s1">}</span></pre></div>
 
 <ul>
