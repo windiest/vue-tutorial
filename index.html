@@ -215,9 +215,26 @@
 <span class="pl-s1"><span class="pl-c1">echo</span> <span class="pl-smi">$query</span>;</span></pre></div>
 
 <ul>
-<li><p><code>SQL::errno()</code> 返回最后执行的一条SQL语句的出错号</p></li>
-<li><p><code>SQL::errmsg()</code> 返回最后执行的一条SQL语句的出错信息</p></li>
-<li><p><code>SQL::escape($str)</code> 返回安全的SQL字符串</p></li>
+<li>
+<code>SQL::errno()</code> 返回最后执行的一条SQL语句的出错号</li>
+</ul>
+
+<div class="highlight highlight-text-html-php"><pre><span class="pl-s1"><span class="pl-smi">$sql</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">'</span>insert into cds(titel, interpret, jahr ,id) values("Hello", "My friends, 2015, 10)<span class="pl-pds">'</span></span>;<span class="pl-c">//错误的SQL语句</span></span>
+<span class="pl-s1"><span class="pl-c1">SQL</span><span class="pl-k">::</span>update(<span class="pl-smi">$sql</span>);</span>
+<span class="pl-s1"><span class="pl-c1">echo</span> <span class="pl-c1">SQL</span><span class="pl-k">::</span>errno();<span class="pl-c">//输出错误号 1064</span></span></pre></div>
+
+<ul>
+<li>
+<code>SQL::errmsg()</code> 返回最后执行的一条SQL语句的出错信息</li>
+</ul>
+
+<div class="highlight highlight-text-html-php"><pre><span class="pl-s1"><span class="pl-smi">$sql</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">'</span>insert into cds(titel, interpret, jahr ,id) values("Hello", "My friends, 2015, 10)<span class="pl-pds">'</span></span>;<span class="pl-c">//错误的SQL语句</span></span>
+<span class="pl-s1"><span class="pl-c1">SQL</span><span class="pl-k">::</span>update(<span class="pl-smi">$sql</span>);</span>
+<span class="pl-s1"><span class="pl-c1">echo</span> <span class="pl-c1">SQL</span><span class="pl-k">::</span>errmsg();<span class="pl-c">//输出错误信息 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"My friends, 2015, 10)' at line 1</span></span></pre></div>
+
+<ul>
+<li>
+<code>SQL::escape($str)</code> 返回安全的SQL字符串</li>
 </ul>
 
 <p>更简便的数据库操作：</p>
