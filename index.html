@@ -161,8 +161,19 @@
 <p>更简便的数据库操作：</p>
 
 <ul>
-<li><p><code>SQL::getAll($table, $where)</code> 查询所有记录，其中$table是表名，$where是一个条件
-数组，如：array('id' =&gt; 1)</p></li>
+<li>
+<code>SQL::getAll($table, $where)</code> 查询所有记录，其中$table是表名，$where是一个条件
+数组，如：array('id' =&gt; 1)</li>
+</ul>
+
+<div class="highlight highlight-text-html-php"><pre><span class="pl-s1"><span class="pl-smi">$prarm</span> <span class="pl-k">=</span> <span class="pl-c1">array</span>(<span class="pl-s"><span class="pl-pds">'</span>id<span class="pl-pds">'</span></span> <span class="pl-k">=&gt;</span> <span class="pl-c1">4</span>, <span class="pl-s"><span class="pl-pds">'</span>jahr<span class="pl-pds">'</span></span> <span class="pl-k">=&gt;</span> <span class="pl-c1">2001</span>);  <span class="pl-c">//array(1) {[0] =&gt; array(4) {  </span></span>
+<span class="pl-s1">                                            <span class="pl-c">//["titel"]     =&gt; string(33)"Goodbye Country (Hello Nightclub)" </span></span>
+<span class="pl-s1"><span class="pl-smi">$query</span> <span class="pl-k">=</span> <span class="pl-c1">SQL</span><span class="pl-k">::</span>getAll(<span class="pl-s"><span class="pl-pds">'</span>cds<span class="pl-pds">'</span></span>, <span class="pl-smi">$prarm</span>);        <span class="pl-c">//["interpret"] =&gt; string(13)"Groove Armada" </span></span>
+<span class="pl-s1"><span class="pl-c">//var_dump($query);                         //["jahr"]      =&gt; string(4) "2001" </span></span>
+<span class="pl-s1"><span class="pl-c1">echo</span> <span class="pl-smi">$query2</span>[<span class="pl-c1">0</span>][<span class="pl-s"><span class="pl-pds">'</span>titel<span class="pl-pds">'</span></span>];                   <span class="pl-c">//["id"]        =&gt; string(1) "4"                              }}</span></span>
+<span class="pl-s1">                                            <span class="pl-c">//输出 Goodbye Country (Hello Nightclub)</span></span></pre></div>
+
+<ul>
 <li><p><code>SQL::getOne($table, $where)</code> 查询一条记录</p></li>
 <li><p><code>SQL::update($table, $where, $update)</code> 更新记录并返回受影响的记录数，其中
 $update是要更新的数据数组，如：array('name' =&gt; 'haha')</p></li>
