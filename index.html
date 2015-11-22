@@ -174,7 +174,15 @@
 <span class="pl-s1">                                            <span class="pl-c">//输出 Goodbye Country (Hello Nightclub)</span></span></pre></div>
 
 <ul>
-<li><p><code>SQL::getOne($table, $where)</code> 查询一条记录</p></li>
+<li>
+<code>SQL::getOne($table, $where)</code> 查询一条记录</li>
+</ul>
+
+<div class="highlight highlight-text-html-php"><pre><span class="pl-s1"><span class="pl-smi">$prarm</span> <span class="pl-k">=</span> <span class="pl-c1">array</span>(<span class="pl-s"><span class="pl-pds">'</span>id<span class="pl-pds">'</span></span> <span class="pl-k">=&gt;</span> <span class="pl-c1">4</span>, <span class="pl-s"><span class="pl-pds">'</span>jahr<span class="pl-pds">'</span></span> <span class="pl-k">=&gt;</span> <span class="pl-c1">2001</span>);</span>
+<span class="pl-s1"><span class="pl-smi">$query</span> <span class="pl-k">=</span> <span class="pl-c1">SQL</span><span class="pl-k">::</span>getOne(<span class="pl-s"><span class="pl-pds">'</span>cds<span class="pl-pds">'</span></span>, <span class="pl-smi">$prarm</span>);</span>
+<span class="pl-s1"><span class="pl-c1">var_dump</span>(<span class="pl-smi">$query</span>);</span></pre></div>
+
+<ul>
 <li><p><code>SQL::update($table, $where, $update)</code> 更新记录并返回受影响的记录数，其中
 $update是要更新的数据数组，如：array('name' =&gt; 'haha')</p></li>
 <li><p><code>SQL::insert($table, $data)</code> 插入一条记录并返回其ID，其中$data是一个数组，
