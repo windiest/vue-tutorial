@@ -397,8 +397,24 @@ Total spent: 3ms
 <span class="pl-s1"><span class="pl-c1">var_dump</span>(<span class="pl-smi">$encrypt</span>);  <span class="pl-c">//bool(true)</span></span></pre></div>
 
 <ul>
-<li><p><code>APP::dump($var)</code> 打印变量结构，一般用于调试；</p></li>
-<li><p><code>APP::showError($msg)</code> 显示出错信息</p></li>
+<li>
+<code>APP::dump($var)</code> 打印变量结构，一般用于调试；</li>
+</ul>
+
+<div class="highlight highlight-text-html-php"><pre><span class="pl-s1"><span class="pl-smi">$prarm</span> <span class="pl-k">=</span> <span class="pl-c1">array</span>(<span class="pl-s"><span class="pl-pds">'</span>Hello<span class="pl-pds">'</span></span>, <span class="pl-s"><span class="pl-pds">'</span>My friends<span class="pl-pds">'</span></span>, <span class="pl-c1">2015</span>, <span class="pl-c1">2</span>);  <span class="pl-c">//Array( [0] =&gt; Hello  [1] =&gt; My friends</span></span>
+<span class="pl-s1"><span class="pl-c1">APP</span><span class="pl-k">::</span>dump(<span class="pl-smi">$prarm</span>);                               <span class="pl-c">//       [2] =&gt; 2015   [3] =&gt; 2 )</span></span></pre></div>
+
+<ul>
+<li>
+<code>APP::showError($msg)</code> 显示出错信息</li>
+</ul>
+
+<pre>连接失败</pre>
+
+<div class="highlight highlight-text-html-php"><pre><span class="pl-s1"><span class="pl-smi">$prarm</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">'</span>连接失败<span class="pl-pds">'</span></span>;</span>
+<span class="pl-s1"><span class="pl-c1">APP</span><span class="pl-k">::</span>showError(<span class="pl-smi">$prarm</span>);</span></pre></div>
+
+<ul>
 <li><p><code>APP::load($filename)</code> 载入依赖的php文件，若不指定后缀名，会自动加上<code>.php</code>，
 默认以当前php文件为根目录，若文件名以<code>/</code>开头，则以常量<code>APP_ROOT</code>定义的应用目录
 作为根目录；</p></li>
