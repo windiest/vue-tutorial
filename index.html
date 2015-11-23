@@ -377,11 +377,26 @@ Total spent: 3ms
 <p>leiphp中提供了一个静态类 <strong>APP</strong> 来进行应用相关的操作，及一些公共函数：</p>
 
 <ul>
-<li><p><code>APP::encryptPassword ($password)</code> 加密密码，返回一个加盐处理后的MD5字符串，
-如：<code>FF:15855D447208A6AB4BD2CC88D4B91732:83</code>；</p></li>
-<li><p><code>APP::validatePassword ($password, $encrypted)</code> 验证密码，第一个参数为待验证的
+<li>
+<code>APP::encryptPassword ($password)</code> 加密密码，返回一个加盐处理后的MD5字符串，
+如：<code>FF:15855D447208A6AB4BD2CC88D4B91732:83</code>；</li>
+</ul>
+
+<div class="highlight highlight-text-html-php"><pre><span class="pl-s1"><span class="pl-smi">$password</span> <span class="pl-k">=</span> <span class="pl-c1">APP</span><span class="pl-k">::</span>encryptPassword(<span class="pl-s"><span class="pl-pds">'</span>123456<span class="pl-pds">'</span></span>);</span>
+<span class="pl-s1"><span class="pl-c1">echo</span> <span class="pl-smi">$password</span>;</span></pre></div>
+
+<ul>
+<li>
+<code>APP::validatePassword ($password, $encrypted)</code> 验证密码，第一个参数为待验证的
 密码，第二个参数为<code>APP::encryptPassword ($password)</code>返回的字符串，
-返回<code>TRUE</code>或<code>FALSE</code>；</p></li>
+返回<code>TRUE</code>或<code>FALSE</code>；</li>
+</ul>
+
+<div class="highlight highlight-text-html-php"><pre><span class="pl-s1"><span class="pl-smi">$password</span> <span class="pl-k">=</span> <span class="pl-c1">APP</span><span class="pl-k">::</span>encryptPassword(<span class="pl-s"><span class="pl-pds">'</span>123456<span class="pl-pds">'</span></span>);</span>
+<span class="pl-s1"><span class="pl-smi">$encrypt</span> <span class="pl-k">=</span> <span class="pl-c1">APP</span><span class="pl-k">::</span>validatePassword(<span class="pl-s"><span class="pl-pds">'</span>123456<span class="pl-pds">'</span></span>, <span class="pl-smi">$password</span>);</span>
+<span class="pl-s1"><span class="pl-c1">var_dump</span>(<span class="pl-smi">$encrypt</span>);  <span class="pl-c">//bool(true)</span></span></pre></div>
+
+<ul>
 <li><p><code>APP::dump($var)</code> 打印变量结构，一般用于调试；</p></li>
 <li><p><code>APP::showError($msg)</code> 显示出错信息</p></li>
 <li><p><code>APP::load($filename)</code> 载入依赖的php文件，若不指定后缀名，会自动加上<code>.php</code>，
