@@ -415,9 +415,16 @@ Total spent: 3ms
 <span class="pl-s1"><span class="pl-c1">APP</span><span class="pl-k">::</span>showError(<span class="pl-smi">$prarm</span>);</span></pre></div>
 
 <ul>
-<li><p><code>APP::load($filename)</code> 载入依赖的php文件，若不指定后缀名，会自动加上<code>.php</code>，
+<li>
+<code>APP::load($filename)</code> 载入依赖的php文件，若不指定后缀名，会自动加上<code>.php</code>，
 默认以当前php文件为根目录，若文件名以<code>/</code>开头，则以常量<code>APP_ROOT</code>定义的应用目录
-作为根目录；</p></li>
+作为根目录；</li>
+</ul>
+
+<div class="highlight highlight-text-html-php"><pre><span class="pl-s1"><span class="pl-c1">APP</span><span class="pl-k">::</span>load(<span class="pl-s"><span class="pl-pds">'</span>../mobile<span class="pl-pds">'</span></span>);        <span class="pl-c">//引入mobile.php的手机类文件</span></span>
+<span class="pl-s1"><span class="pl-c1">var_dump</span>(<span class="pl-c1">Mobile</span><span class="pl-k">::</span>isMobile());  <span class="pl-c">//是手机访问则返回bool(true)</span></span></pre></div>
+
+<ul>
 <li><p><code>APP::sendJSON($data)</code> 返回JSON格式数据</p></li>
 <li><p><code>APP::sendError($msg, $data = array())</code> 返回JSON格式的出错信息：<code>{"error":"msg"}</code></p></li>
 <li><p><code>APP::authEncode($string, $key, $expirey)</code> 加密账户验证信息，可指定过期时间</p></li>
