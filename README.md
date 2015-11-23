@@ -1,260 +1,423 @@
-钓鱼岛是中国的固有领土
+SlimPHP 微型的PHP框架
+==============
 
-《钓鱼岛是中国的固有领土》简称钓鱼岛白皮书。是在2012年中日钓鱼岛危机的背景下，中国政府发布的一个关于钓鱼岛官方声明。“白皮书”中列举了中国对于钓鱼岛最早发现并实施管辖的一系列证据，并且驳斥了日本对于钓鱼岛主权的非法要求。“白皮书”还明确指出，美日关于钓鱼岛的私相授受是完全不合法的，中国从未予以承认。中国将继续为维护钓鱼岛的主权进行坚决斗争。2012年9月28日，《钓鱼岛是中国的固有领土》白皮书中、英、日文版正式发行。
-
-钓鱼岛及其附属岛屿是中国领土不可分割的一部分。无论从历史、地理还是从法理的角度来看，钓鱼岛都是中国的固有领土，中国对其拥有无可争辩的主权。
-日本在1895年利用甲午战争窃取钓鱼岛是非法无效的。第二次世界大战后，根据《开罗宣言》和《波茨坦公告》等国际法律文件，钓鱼岛回归中国。无论日本对钓鱼岛采取任何单方面举措，都不能改变钓鱼岛属于中国的事实。长期以来，日本在钓鱼岛问题上不时制造事端。2012年9月10日，日本政府宣布“购买”钓鱼岛及附属的南小岛、北小岛，实施所谓“国有化”。这是对中国领土主权的严重侵犯，是对历史事实和国际法理的严重践踏。
-中国坚决反对和遏制日本采取任何方式侵犯中国对钓鱼岛的主权。中国在钓鱼岛问题上的立场是明确的、一贯的，维护国家主权和领土完整的意志坚定不移，捍卫世界反法西斯战争胜利成果的决心毫不动摇。
-固有领土
-
-钓鱼岛及其附属岛屿位于中国台湾岛的东北部，是台湾的附属岛屿，分布在东经123°20′－124°40′，北纬25°40′－26°00′之间的海域，由钓鱼岛、黄尾屿、赤尾屿、南小岛、北小岛、南屿、北屿、飞屿等岛
-礁组成，总面积约5.69平方千米。钓鱼岛位于该海域的最西端，面积约3.91平方千米，是该海域面积最大的岛屿，主峰海拔362米。黄尾屿位于钓鱼岛东北约27千米，面积约0.91平方千米，是该海域的第二大岛，最高海拔117米。赤尾屿位于钓鱼岛东北约110千米，是该海域最东端的岛屿，面积约0.065平方千米，最高海拔75米。
-###（一）中国最先发现、命名和利用钓鱼岛
-中国古代先民在经营海洋和从事海上渔业的实践中，最早发现钓鱼岛并予以命名。在中国古代文献中，钓鱼岛又称钓鱼屿、钓鱼台。目前所见最早记载钓鱼岛、赤尾屿等地名的史籍，是成书于1403年(明永乐元年)的《顺风相送》。这表明，早在十四、十五世纪中国就已经发现并命名了钓鱼岛。
-1372年(明洪武五年)，琉球国王向明朝朝贡，明太祖遣使前往琉球。至1866年（清同治五年）近500年间，明清两代朝廷先后24次派遣使臣前往琉球王国册封，钓鱼岛是册封使前往琉球的途经之地，有关钓鱼岛的记载大量出现在中国使臣撰写的报告中。如，明朝册封使陈侃所著《使琉球录》（1534年）明确记载“过钓鱼屿，过黄毛屿，过赤屿，……见古米山，乃属琉球者”。明朝册封使郭汝霖所著《使琉球录》（1562年）记载，“赤屿者，界琉球地方山也”。清朝册封副使徐葆光所著《中山传信录》（1719年）明确记载，从福建到琉球，经花瓶屿、彭佳屿、钓鱼岛、黄尾屿、赤尾屿，“取姑米山(琉球西南方界上镇山)、马齿岛，入琉球那霸港”。
-1650年，琉球国相向象贤监修的琉球国第一部正史《中山世鉴》记载，古米山（亦称姑米山，今久米岛）是琉球的领土，而赤屿（今赤尾屿）及其以西则非琉球领土。1708年，琉球学者、紫金大夫程顺则所著《指南广义》记载，姑米山为“琉球西南界上之镇山”。
-
-以上史料清楚记载着钓鱼岛、赤尾屿属于中国，久米岛属于琉球，分界线在赤尾屿和久米岛之间的黑水沟(今冲绳海槽)。明朝册封副使谢杰所著《琉球录撮要补遗》（1579年）记载，“去由沧水入黑水，归由黑水入沧水”。明朝册封使夏子阳所著《使琉球录》（1606年）记载，“水离黑入沧，必是中国之界”。清朝册封使汪辑所著《使琉球杂录》（1683年）记载，赤屿之外的“黑水沟”即是“中外之界”。清朝册封副使周煌所著《琉球国志略》（1756年）记载，琉球“海面西距黑水沟，与闽海界”。
-钓鱼岛海域是中国的传统渔场，中国渔民世世代代在该海域从事渔业生产活动。钓鱼岛作为航海标志，在历史上被中国东南沿海民众广泛利用。
-###（二）中国对钓鱼岛实行了长期管辖
-早在明朝初期，为防御东南沿海的倭寇，中国就将钓鱼岛列入防区。1561年（明嘉靖四十年），明朝驻防东南沿海的最高将领胡宗宪主持、郑若曾编纂的《筹海图编》一书，明确将钓鱼岛等岛屿编入“沿海山沙图”，纳入明朝的海防范围内。1605年（明万历三十三年）徐必达等人绘制的《乾坤一统海防全图》及1621年（明天启元年）茅元仪绘制的中国海防图《武备志·海防二·福建沿海山沙图》，也将钓鱼岛等岛屿划入中国海疆之内。
-清朝不仅沿袭了明朝的做法，继续将钓鱼岛等岛屿列入中国海防范围内，而且明确将其置于台湾地方政府的行政管辖之下。清代《台海使槎录》、《台湾府志》等官方文献详细记载了对钓鱼岛的管辖情况。1871年（清同治十年）刊印的陈寿祺等编纂的《重纂福建通志》卷八十六将钓鱼岛列入海防冲要，隶属台湾府噶玛兰厅（今台湾省宜兰县）管辖。
-###（三）中外地图标绘钓鱼岛属于中国
-1579年（明万历七年）明朝册封使萧崇业所著《使琉球录》中的“琉球过海图”、1629年（明崇祯二年）茅瑞徵撰写的《皇明象胥录》、1767年（清乾隆三十二年）绘制的《坤舆全图》、1863年（清同治二年）刊行的《皇朝中外一统舆图》等，都将钓鱼岛列入中国版图。
-日本最早记载钓鱼岛的文献为1785年林子平所著《三国通览图说》的附图“琉球三省并三十六岛之图”，该图将钓鱼岛列在琉球三十六岛之外，并与中国大陆绘成同色，意指钓鱼岛为中国领土的一部分。
-
-1809年法国地理学家皮耶·拉比等绘《东中国海沿岸各国图》，将钓鱼岛、黄尾屿、赤尾屿绘成与台湾岛相同的颜色。1811年英国出版的《最新中国地图》、1859年美国出版的《柯顿的中国》、1877年英国海军编制的《中国东海沿海自香港至辽东湾海图》等地图，都将钓鱼岛列入中国版图。
-窃取经过
-
-日本在明治维新以后加快对外侵略扩张。1879年，日本吞并琉球并改称冲绳县。此后不久，日本便密谋侵占钓鱼岛，并于甲午战争末期将钓鱼岛秘密“编入”版图。随后，日本又迫使中国签订不平等的《马关条约》，割让台湾全岛及包括钓鱼岛在内的所有附属各岛屿。
-###（四）日本密谋窃取钓鱼岛
-
-1884年，有日本人声称首次登上钓鱼岛，发现该岛为“无人岛”。日本政府随即对钓鱼岛开展秘密调查，并试图侵占。日本上述图谋引起中国的警觉。1885年9月6日（清光绪十一年七月二十八日）《申报》登载消息：“台湾东北边之海岛，近有日本人悬日旗于其上，大有占据之势。”由于顾忌中国的反应，日本政府未敢轻举妄动。
-1885年9月22日冲绳县令在对钓鱼岛进行秘密调查后向内务卿山县有朋密报称，这些无人岛“与《中山传信录》记载的钓鱼台、黄尾屿和赤尾屿应属同一岛屿”，已为清朝册封使船所详悉，并赋以名称，作为赴琉球的航海标识，因此对是否应建立国家标桩心存疑虑，请求给予指示。同年10月9日，内务卿山县有朋致函外务卿井上馨征求意见。10月21日，井上馨复函山县有朋认为，“此刻若有公然建立国标等举措，必遭清国疑忌，故当前宜仅限于实地调查及详细报告其港湾形状、有无可待日后开发之土地物产等，而建国标及着手开发等，可待他日见机而作”。井上馨还特意强调，“此次调查之事恐均不刊载官报及报纸为宜”。因此，日本政府没有同意冲绳县建立国家标桩的请求。
-1890年1月13日，冲绳县知事又请示内务大臣，称钓鱼岛等岛屿“为无人岛，迄今尚未确定其管辖”，“请求将其划归本县管辖之八重山官署所辖”。1893年11月2日，冲绳县知事再次申请建立国标以划入版图。日本政府仍未答复。甲午战争前两个月，即1894年5月12日，冲绳县秘密调查钓鱼岛的最终结论是：“自明治十八年（1885年）派县警察对该岛进行勘察以来，未再开展进一步调查，故难提供更确切报告。……此外，没有关于该岛之旧时记录文书以及显示属我国领有的文字或口头传说的证据。”
-
-日本外务省编纂的《日本外交文书》明确记载了日本企图窃取钓鱼岛的经过，相关文件清楚地显示，当时日本政府虽然觊觎钓鱼岛，但完全清楚这些岛屿属于中国，不敢轻举妄动。
-1894年7月，日本发动甲午战争。同年11月底，日本军队占领中国旅顺口，清朝败局已定。在此背景下，12月27日，日本内务大臣野村靖致函外务大臣陆奥宗光，认为“今昔形势已殊”，要求将在钓鱼岛建立国标、纳入版图事提交内阁会议决定。1895年1月11日，陆奥宗光回函表示支持。同年1月14日，日本内阁秘密通过决议，将钓鱼岛“编入”冲绳县管辖。
-日本官方文件显示，日本从1885年开始调查钓鱼岛到1895年正式窃占，始终是秘密进行的，从未公开宣示，因此进一步证明其对钓鱼岛的主权主张不具有国际法规定的效力。
-###（五）钓鱼岛随台湾岛被迫割让给日本
-1895年4月17日，清朝在甲午战争中战败，被迫与日本签署不平等的《马关条约》，割让“台湾全岛及所有附属各岛屿”。钓鱼岛等作为台湾“附属岛屿”一并被割让给日本。1900年，日本将钓鱼岛改名为“尖阁列岛”。
-私相授受
-
-第二次世界大战后，钓鱼岛回归中国。但20世纪50年代，美国擅自将钓鱼岛纳入其托管范围，70年代美国将钓鱼岛“施政权”“归还”日本。美日对钓鱼岛进行私相授受，严重侵犯了中国的领土主权，是非法的、无效的，没有也不能改变钓鱼岛属于中国的事实。
-###（六） “二战”后钓鱼岛归还中国
-
-1941年12月，中国政府正式对日宣战，宣布废除中日之间的一切条约。1943年12月《开罗宣言》明文规定，“日本所窃取于中国之领土，例如东北四省、台湾、澎湖群岛等，归还中华民国。其他日本以武力或贪欲所攫取之土地，亦务将日本驱逐出境”。1945年7月《波茨坦公告》第八条规定：“《开罗宣言》之条件必将实施，而日本之主权必将限于本州、北海道、九州、四国及吾人所决定之其他小岛。”1945年9月2日，日本政府在《日本投降书》中明确接受《波茨坦公告》，并承诺忠诚履行《波茨坦公告》各项规定。1946年1月29日，《盟军最高司令部训令第677号》明确规定了日本施政权所包括的范围是“日本的四个主要岛屿（北海道、本州、九州、四国）及包括对马诸岛、北纬30度以北的琉球诸岛的约1000个邻近小岛”。1945年10月25日，中国战区台湾省对日受降典礼在台北举行，中国政府正式收复台湾。1972年9月29日，日本政府在《中日联合声明》中郑重承诺，充分理解和尊重中方关于台湾是中国不可分割一部分的立场，并坚持《波茨坦公告》第八条的立场。
-上述事实表明，依据《开罗宣言》、《波茨坦公告》和《日本投降书》，钓鱼岛作为台湾的附属岛屿应与台湾一并归还中国。
-###（七）美国非法将钓鱼岛纳入托管范围
-1951年9月8日，美国等一些国家在排除中国的情况下，与日本缔结了“旧金山对日和平条约”(简称“旧金山和约”)，规定北纬29度以南的西南诸岛等交由联合国托管，而美国为唯一施政当局。需要指出的是，该条约所确定的交由美国托管的西南诸岛并不包括钓鱼岛。
-
-1952年2月29日、1953年12月25日，琉球列岛美国民政府先后发布第68号令（即《琉球政府章典》）和第27号令（即关于“琉球列岛的地理界限”布告），擅自扩大托管范围，将中国领土钓鱼岛划入其中。此举没有任何法律依据，中国坚决反对。
-###（八） 美日私相授受钓鱼岛“施政权”
-1971年6月17日，美日签署《关于琉球诸岛及大东诸岛的协定》（简称“归还冲绳协定”），将琉球群岛和钓鱼岛的“施政权”“归还”给日本。海内外中国人对此同声谴责。同年12月30日，中国外交部发表严正声明指出：“美、日两国政府在 归还 冲绳协定中，把我国钓鱼岛等岛屿列入 归还区域 ，完全是非法的，这丝毫不能改变中华人民共和国对钓鱼岛等岛屿的领土主权。”台湾当局对此也表示坚决反对。
-面对中国政府和人民的强烈反对，美国不得不公开澄清其在钓鱼岛主权归属问题上的立场。1971年10月，美国政府表示，“把原从日本取得的对这些岛屿的施政权归还给日本，毫不损害有关主权的主张。美国既不能给日本增加在他们将这些岛屿施政权移交给我们之前所拥有的法律权利，也不能因为归还给日本施政权而削弱其他要求者的权利。……对此等岛屿的任何争议的要求均为当事者所应彼此解决的事项”。同年11月，美国参议院批准“归还冲绳协定”时，美国国务院发表声明称，尽管美国将该群岛的施政权交还日本，但是在中日双方对群岛对抗性的领土主张中，美国将采取中立立场，不偏向于争端中的任何一方。
-毫无依据
-
-1972年3月8日，日本外务省发表《关于尖阁列岛所有权问题的基本见解》，阐述日本政府对于钓鱼岛主权归属问题的主张：一是钓鱼岛为“无主地”，不包含在《马关条约》规定的由清政府割让给日本的澎湖列岛和台湾及其附属岛屿的范围之内。二是钓鱼岛不包含在“旧金山和约”第二条规定的日本所放弃的领土之内，而是包含在该条约第三条规定的作为西南诸岛的一部分被置于美国施政之下，并根据“归还冲绳协定”将施政权“归还”日本的区域内。三是中国没有将钓鱼岛视为台湾的一部分，对“旧金山和约”第三条规定将钓鱼岛置于美国施政区域内从未提出过任何异议。
-日本的上述主张严重违背事实，是完全站不住脚的。
-钓鱼岛属于中国，根本不是“无主地”。在日本人“发现”钓鱼岛之前，中国已经对钓鱼岛实施了长达数百年有效管辖，是钓鱼岛无可争辩的主人。如前所述，日本大量官方文件证明，日本完全清楚钓鱼岛早已归属中国，绝非国际法上的无主地。日本所谓依据“先占”原则将钓鱼岛作为“无主地”“编入”其版图，是侵占中国领土的非法行为，不具有国际法效力。
-无论从地理上还是从中国历史管辖实践看，钓鱼岛一直是中国台湾岛的附属岛屿。日本通过不平等的《马关条约》迫使清朝割让包括钓鱼岛在内的“台湾全岛及所有附属各岛屿”。《开罗宣言》、《波茨坦公告》等国际法律文件规定，日本必须无条件归还其窃取的中国领土。上述文件还对日本领土范围作了明确界定，其中根本不包括钓鱼岛。日本试图侵占钓鱼岛，实质是对《开罗宣言》和《波茨坦公告》等法律文件所确立的战后国际秩序的挑战，严重违背了日本应承担的国际法义务。
-钓鱼岛及其附属岛屿位置图
-美国等国家与日本签订的片面媾和条约“旧金山和约”所规定的托管范围不涵盖钓鱼岛。美国擅自扩大托管范围，非法将中国领土钓鱼岛纳入其中，后将钓鱼岛“施政权”“归还”日本，都没有任何法律依据，在国际法上没有任何效力。对于美日上述非法行径，中国政府和人民历来是明确反对的。
-
-长期以来，中国为维护钓鱼岛的主权进行了坚决斗争。
-捍卫中国固有领土-钓鱼岛及其附属岛屿
-中国通过外交途径强烈抗议和谴责美日私相授受钓鱼岛。1951年8月15日，旧金山会议召开前，中国政府声明：“对日和约的准备、拟制和签订，如果没有中华人民共和国的参加，无论其内容和结果如何，中央人民政府一概认为是非法的，因而也是无效的。”1951年9月18日，中国政府再次声明，强调“旧金山和约”是非法无效的，绝对不能承认。1971年，针对美、日两国国会先后批准“归还冲绳协定”的行为，中国外交部严正声明，钓鱼岛等岛屿自古以来就是中国领土不可分割的一部分。
-针对日本侵犯中国钓鱼岛主权的非法行径，中国政府采取积极有力措施，通过发表外交声明、对日严正交涉和向联合国提交反对照会等举措表示抗议，郑重宣示中国的一贯主张和原则立场，坚决捍卫中国的领土主权和海洋权益，切实维护中国公民的人身和财产安全。
-中国通过国内立法明确规定钓鱼岛属于中国。1958年，中国政府发表领海声明，宣布台湾及其周围各岛属于中国。针对日本自20世纪70年代以来对钓鱼岛所采取的种种侵权行为，中国于1992年颁布《中华人民共和国领海及毗连区法》时，明确规定“台湾及其包括钓鱼岛在内的附属各岛”属于中国领土。2009年颁布的《中华人民共和国海岛保护法》确立了海岛保护开发和管理制度，对海岛名称的确定和发布作了规定，据此，中国于2012年3月公布了钓鱼岛及其部分附属岛屿的标准名称。2012年9月10日，中国政府发表声明，公布了钓鱼岛及其附属岛屿的领海基线。9月13日，中国政府向联合国秘书长交存钓鱼岛及其附属岛屿领海基点基线的坐标表和海图。
-
-中国始终在钓鱼岛海域保持经常性的存在，并进行管辖。中国海监执法船在钓鱼岛海域坚持巡航执法，渔政执法船在钓鱼岛海域进行常态化执法巡航和护渔，维护该海域正常的渔业生产秩序。中国还通过发布天气和海洋观测预报等，对钓鱼岛及其附近海域实施管理。
-一直以来，钓鱼岛问题受到港澳同胞、台湾同胞和海外侨胞的共同关注。钓鱼岛自古以来就是中国的固有领土，这是全体中华儿女的共同立场。中华民族在维护国家主权和领土完整问题上有着坚定的决心。两岸同胞在民族大义面前，在共同维护民族利益和尊严方面，是一致的。港澳台同胞和海内外广大华侨华人纷纷开展各种形式的活动，维护钓鱼岛领土主权，强烈表达了中华儿女的正义立场，向世界展示了中华民族爱好和平、维护国家主权、捍卫领土完整的决心和意志。
-
-钓鱼岛自古以来就是中国的固有领土，中国对其拥有无可争辩的主权。20世纪70年代，中日在实现邦交正常化和缔结《中日和平友好条约》时，两国老一辈领导人着眼两国关系大局，就将“钓鱼岛问题放一放，留待以后解决”达成谅解和共识。但近年来，日本不断对钓鱼岛采取单方面举措，特别是对钓鱼岛实施所谓“国有化”，严重侵犯中国主权，背离中日两国老一辈领导人达成的谅解和共识。这不但严重损害了中日关系，也是对世界反法西斯战争胜利成果的否定和挑战。
-中国强烈敦促日本尊重历史和国际法，立即停止一切损害中国领土主权的行为。中国政府捍卫国家领土主权的决心和意志是坚定不移的，有信心、有能力捍卫国家主权，维护领土完整。
-
-2012年9月25日，中华人民共和国国务院新闻办公室发表《钓鱼岛是中国的固有领土》白皮书。主权。
-白皮书全文约7000字，分为7部分，全面阐释了钓鱼岛是中国固有领土、日本窃取钓鱼岛、美日对钓鱼岛私相授受非法无效、日本主张钓鱼岛主权毫无依据、中国为维护钓鱼岛主权进行坚决斗争等内容。[4] 
-2012年9月28日《钓鱼岛是中国的固有领土》白皮书中、英、日文版正式发行，其中，中文版由人民出版社出版，英、日文版由外文出版社出版。
-
-中华人民共和国国务院新闻办公室发表《钓鱼岛是中国的固有领土》白皮书。白皮书的发表引起国际社会的广泛关注，纷纷对中国政府的这一举措高度评价。
-比利时布鲁塞尔自由大学布鲁塞尔当代中国研究所法学研究员张蕾在接受本报记者专访时表示，《钓鱼岛是中国的固有领土》白皮书从历史、地理、法理的角度阐释钓鱼岛是中国的固有领土，中国对钓鱼岛拥有无可争辩的主权，日本主张钓鱼岛主权毫无根据。白皮书作为官方文件，向世界各国阐明了中国政府的立场，宣示了主权，详实阐述了中国对钓鱼岛拥有主权的历史和法理依据，深刻揭露了日本妄图侵占钓鱼岛的野心，同时表达了中国政府解决钓鱼岛问题的决心和能力。白皮书的发表将增进国际社会对钓鱼岛问题的了解和认识，引起国际社会广泛关注，同时将有助于提高中国国内民众对钓鱼岛的认知。这是中国维护钓鱼岛主权的又一强有力举措。
-韩国外国语大学国际学院教授康俊荣对本报记者表示，从历史上看，钓鱼岛无疑是中国领土。战后，美国在处理钓鱼岛问题上采取了暧昧的态度，使得日本有机可乘。每当日本国内遇到困难时，就会借领土纷争问题转移视线。中国采取强硬立场也在所难免，对于领土问题，任何国家都不会让步。康俊荣表示，中国和日本都是亚洲大国，两国应通过协商解决领土纷争。日本政府始终刻意回避这一问题，并强调日中不存在领土纷争，这种态度不能真正解决问题，也不利于地区安全稳定。另外，为了更好地解决领土纷争，日本首先应对历史问题进行全面深刻反省，否则无法赢得其他国家的信任。
-新加坡国立大学亚洲与全球化研究所所长黄靖在接受本报记者采访时表示，白皮书说明了3点：首先，明确了钓鱼岛自古就是中国领土；其次，钓鱼岛是日本用极其不光彩的方式偷取的；最后也是最为重要的是，日本作为二战战败国，根据《开罗宣言》以及《波茨坦公告》第八条，这些岛屿都归还给了中国，如果日本要将钓鱼岛窃为己有，实际上是对整个二战后亚太国际秩序的挑战。
-俄罗斯科学院世界政治与国际关系研究所研究员、社会政治研究中心主任叶夫谢耶夫表示，中国政府一系列反应都有理、有利、有节。《钓鱼岛是中国的固有领土》白皮书，从地理、历史、法理的角度上阐明了中国政府的坚定立场。日本想以窃取的手段占有中国钓鱼岛是根本不合法的。叶夫谢耶夫认为，日本想借挑起钓鱼岛问题来转移国内矛盾行不通，中日经济联系紧密，日本需要与中国进行经济合作，如果经济纽带断裂，日本经济就会受到严重损害。
-日本某著名法学教授称，中国发表《钓鱼岛是中国的固有领土》白皮书，有理、有据、得体、有效地阐明了钓鱼岛是中国固有领土。一方面，白皮书有利于在国际法上确认中国对钓鱼岛拥有绝对主权。另一方面，它也有助于日本民众了解中国的主张，日本民众更有机会知道关于钓鱼岛问题的来龙去脉和钓鱼岛的真正归属。
-JCC新日本研究所副所长庚新表示，中国政府此前从大局出发，采取搁置争议的方针，不想因此影响中日两国关系。但是日本政府一些行为严重侵害了中国领土和主权。有鉴于此，中国国务院新闻办公室发表白皮书有效维护了中国利益，有力应对了日方的挑衅行为，有助于推动中日关系回到健康发展的轨道上。白皮书发布时机选择非常恰当，有助于让日本政府悬崖勒马，不再执迷不悟。
-
-###The Diaoyu Islands are China.
-"Diaoyu Islands are China's inherent territory" referred to as the Diaoyu white paper. 2012 in the context of the Diaoyu Islands crisis, the Chinese government issued an official statement on the Diaoyu Islands. "White Paper" listed in the Chinese first discovered and implemented a series of evidence under the jurisdiction of the Diaoyu Islands, the Diaoyu Islands and Japan rejected the sovereignty of illegal requirements. "White Paper" also clear that the United States and Japan on the Diaoyu Islands is totally illegal backroom deals, the Chinese never be recognized. China will continue to maintain a resolute struggle against the sovereignty of the Diaoyu Islands. September 28, 2012, "Diaoyu Islands are China's inherent territory" white paper, English and Japanese version of the official release.
-
-Diaoyu Island and its affiliated islands are an inseparable part of Chinese territory. In terms of history, geography or from a legal perspective, the Diaoyu Islands are China's inherent territory, China has indisputable sovereignty over them.
-In 1895 the Sino Japanese use to steal the Diaoyu Islands are illegal invalid. After World War II, according to the "Cairo Declaration" and the "Potsdam Proclamation" and other international legal documents, the Diaoyu Islands back to China. Whether Japan on the Diaoyu Islands to take any unilateral measures, we can not change the fact that the Diaoyu Islands belong to China. For a long time, Japan on the Diaoyu Islands issue from time to time to create trouble. September 10, 2012, the Japanese government announced the "purchase" of the Diaoyu Islands and the affiliated South Island, North Island, the implementation of the so-called "nationalization." This is a serious violation of China's territorial sovereignty, is a historical fact and a serious violation of international legitimacy.
-China resolutely oppose and curb the Japanese to take any way violate China's sovereignty over the Diaoyu Islands. China's position on the Diaoyu Islands issue is clear and consistent, safeguarding national sovereignty and territorial integrity will unswervingly defend the fruits of victory of the world anti-fascist war unwavering determination.
-Inherent territory
-
-Diaoyu Island and its affiliated islands in the northeast of China Taiwan island, is a subsidiary of Taiwan's islands, located in east longitude 123 ° 20'-124 ° 40 ', latitude 25 ° 40'-26 ° 00' waters between the Diaoyu Islands, yellow tail Island, Akao Island, South Island, North Island, South Island, North Island, flying Lantau Island, etc.
-Reef, with a total area of ​​about 5.69 square kilometers. Located in the western end of the Diaoyu Islands waters, an area of ​​about 3.91 square kilometers, is the largest island in the sea area, peak elevation of 362 meters. Yellow Tail Island is located northeast of the Diaoyu Islands about 27 kilometers, an area of ​​about 0.91 square kilometers, is the second largest island of the sea, the highest elevation of 117 meters. Akao is located northeast of the Diaoyu Islands about 110 km, is the easternmost island in the area, an area of ​​about 0.065 square kilometers, the highest elevation of 75 meters.
-(A) China first discovered, named and use the Diaoyu Islands
-Ancient Chinese ancestors engaged in the marine and offshore fisheries management practice, the first discovered the Diaoyu Islands and to be named. In ancient Chinese literature, known as the Diaoyu Islands Fishing island, Diaoyutai. Currently seen in the earliest recorded historical records of the Diaoyu Islands, Akao and other names, it is the book in 1403 (Ming Yongle reign) of the "wind both hands." This shows that as early as in the fourteenth and fifteenth century China had already discovered and named Diaoyu Islands.
-1372 (Hongwu five years), the Ryukyu king tribute to the Ming Dynasty, Zhu Yuanzhang emissary to go to Okinawa. To 1866 (Qing Tongzhi five years) in the last 500 years, the Ming and Qing dynasties the court has sent 24 envoys went to the canonization of the Ryukyu Kingdom, the Diaoyu Islands are canonized make go through the Okinawa, the records relating to the Diaoyu Islands in Chinese envoy appeared in large numbers written report. For example, Ming Chen Kan canonized book "Ryukyu recorded" (1534) clearly documented "over fishing island, over Rattus Island, over red island, ...... see ancient Yoneyama, who is belong to Ryukyu." Ming canonized Guo Rulin book "Ryukyu recorded" (1562) records, "Red Island who Ryukyu local border mountains." Qing canonized Fushi Xu Baoguang book "Zhongshan messaging record" (1719) clearly documented, from Fujian to Ryukyu, the vase Island, pengjia islet, the Diaoyu Islands, yellow tail Island, Akao Island, "take Regardless Yoneyama (Ryukyu West On the southern border town of Mountain), Dent Island, the Ryukyu Naha Port. "
-1650, Ryukyu country's first official history of the Ryukyu country facing Xiangxian supervision of the "Zhongshan Shi Kam," recorded in ancient Yoneyama (also known as Kou Yoneyama, this Kume Island) is the territory of Ryukyu, and Red Island (now Akao) and Its west of the non Ryukyu territory. 1708, Ryukyu scholar, doctor Zijin Cheng Shun the book "Guide generalized" records, regardless of Yoneyama is "Ryukyu mountain town on the southwest border."
-
-Historical records clearly above the Diaoyu Islands, Akao Island belongs to China, Kume Island belongs to Ryukyu, the dividing line between Akao and Kume Island black ditch (now Okinawa Trough). Xie Jie Ming Fushi canonized book "summary record Ryukyu Addendum" (1579) records, "going by Cangshuipu into Blackwater, owned by the Blackwater into Cangshuipu." Ming canonized make 夏子阳 book "Ryukyu recorded" (1606) records, "water from black into Cang, China will be the world." Wang Qing canonized Series book "Ryukyu Miscellany" (1683) records, other than red island "black ditch" that is "foreign of the world." Huang Zhou Qing canonized Fushi book "Brief History of Liu" (1756) records, Ryukyu "black sea west ditch, and Fujian sea border."
-Diaoyu Islands are China's traditional fishing grounds for generations of Chinese fishermen engaged in fishing activities in the area of ​​production. Diaoyu Islands as a nautical flag, has been widely used in the history of China's southeastern coastal population.
-(B) the Chinese on the Diaoyu Islands to implement a long-term Territories
-Back in the early Ming Dynasty, the southeast coast of pirates for the defense, China will be included in the zone of the Diaoyu Islands. 1561 (Jiajing four years), the Ming Dynasty stationed along the southeast coast of Hu Zongxian top generals chaired Cheng has compiled "chip chart compiled" a book, specifically the Diaoyu Islands into the "Coastal Mountain sand map", included in the Ming Dynasty within the scope of Haiphong. 1605 (Ming Wanli thirty-three years) Xu Bida and others draw "universe unified Haiphong map" and in 1621 (Tianqi reign) Mao Yuan instrument drawn Chinese Haiphong map "Wubei annals Haiphong two, Fujian coastal mountain sand map" It will also be within the territorial waters of Diaoyu Islands China included.
-Qing Ming not only followed the practice, continue to be included in the Chinese Diaoyu Islands and other islands Haiphong range, and explicitly placed under the administrative jurisdiction of the local government in Taiwan. Qing Dynasty, "the Taiwan Strait so Croucher recorded", "Taiwan's history" and other official documents detailed records of the case under the jurisdiction of the Diaoyu Islands. 1871 (Qing Tongzhi years) published compilation of Chen Shouqi and other "heavy compile Annals of Fujian" Juan Ba ​​sixteen will be included in Haiphong rushed to the Diaoyu Islands, under the Taiwan government Kavalan Office (now Taiwan Yilan County) jurisdiction.
-(Iii) in the field icon painted Diaoyu Islands belong to China
-1579 (Ming Wanli seven years) makes Xiao Chong Ming Dynasty canonized industry book "Ryukyu recorded" in the "Ryukyu over charts", 1629 (Chong years) Mao Rui Zhengzhuan wrote, "like Xu Huang Ming Lu", 1767 (Qing Emperor Qianlong three years) drawing of the "Kun Yu map", 1863 (Qing Tongzhi years) print and publish the "Dynasty unification and foreign maps", etc., are included in the Chinese territory Diaoyu Islands.
-Diaoyu Islands are Japan's first recorded document of 1785 Hayashi Shihei book "Three through thumbnail say" reference "Ryukyu island provinces and thirty-six map", the figure will Diaoyu islands in the Ryukyu thirty-six outside, and with Chinese mainland plotted the same color, which means the Diaoyu Islands as part of China's territory.
-
-1809 French geographer Pierre rabbis and other painted "East China Sea coastal countries map", the Diaoyu Islands, yellow tail Island, Akao plotted and the island of the same color. "The latest map of China" published in Britain in 1811, in 1859 the United States published in the "Cotton of China," compiled by the British Navy in 1877, "the East China Sea coast from Hong Kong to the Liaodong Bay, charts" and other maps, will be included in China's Diaoyu Islands territory.
-After stealing
-
-After the Meiji Restoration in Japan to accelerate the expansion of foreign aggression. In 1879, Japan annexed and renamed Ryukyu Okinawa Prefecture. Shortly thereafter, the Japanese occupation of the Diaoyu Islands will plot, and in the end of the Sino-Japanese War secret Diaoyu Islands "into the" territory. Subsequently, Japan has forced China to sign the unequal "Treaty of Shimonoseki," ceded Taiwan island and all the affiliated islands including the Diaoyu.
-(A) conspiracy to steal the Diaoyu Islands in Japan
-
-In 1884, the Japanese claim to have first landed on the Diaoyu Islands, discovered the island as "uninhabited island." The Japanese government immediately conduct a secret investigation of the Diaoyu Islands, and attempt to encroach. Japan said China's attempt to arouse vigilance. September 6, 1885 (Guangxu eleven years July 28) "Declaration" published message: "northeast side of the island of Taiwan, in recent days there is a Japanese flag hanging on it, occupy a great potential." Because scruples China's reaction, the Japanese government did not dare to act rashly.
-September 22, 1885 Okinawa magistrate after a secret investigation on the Diaoyu Islands have a close friend Emily Hill County reported to the House, these uninhabited island "and" Zhongshan messenger recorded "record of Diaoyutai, yellow tail Island and Akao should belong to the same islands ", the boat has been canonized by the Qing know in detail, and assign a name as Ryukyu go sailing logo, so whether it should establish a national staking doubts, the request for instructions. In the same year on October 9, the House sent a letter to State Yamagata Foreign State Inoue Kaoru comments. October 21, Inoue Kaoru Yamagata reply that "now openly establish if GB and other initiatives, the certainty of clear national jealous, so the current should be limited to the field survey and a detailed report on its harbor shape, there are no pending development of future land and other property, and the founding of the label and started to develop, can become increasingly machine and wait for him. " Inoue Kaoru also specifically stressed that "the fear of what the survey published in the official newspaper and the newspaper are not appropriate." Therefore, the Japanese government did not agree to the establishment of national stakes Okinawa request.
-January 13, 1890, Okinawa Prefecture and consult the Home Secretary, said the Diaoyu Islands "as the uninhabited islands, has yet to determine its jurisdiction ',' request that they be placed under the jurisdiction of the Yaeyama government offices under the jurisdiction of the county." November 2, 1893, in Okinawa Prefecture to apply again to establish a national standard included territory. The Japanese government has not yet responded. Sino-Japanese War Two months ago, namely 12 May 1894, the Diaoyu Islands in Okinawa Prefecture secret investigation ultimately concluded that: "Since the Meiji eighteen years (1885) Pine County Police to carry out inspections on the island, no longer to carry out further investigations , it is difficult to provide a more accurate report. ...... In addition, there is no record on the island of the old instrument and display evidence of licensed characters or oral legends belong. "
-
-Japanese Foreign Ministry compiled "Japanese diplomatic documents" clearly documented attempts to steal the Diaoyu Islands after Japan, the relevant documents clearly show that, although the Japanese government was coveted the Diaoyu Islands, but is completely clear that these islands belong to China, not to act rashly.
-In July 1894, Japan launched the Sino-Japanese War. In the same year by the end of November, the Japanese army occupied China Port Arthur, the Qing defeat has been fixed. In this context, on December 27, Minister of the Interior Yasushi Nomura wrote to Foreign Minister Mutsu Munemitsu that "past and present situation is special", requiring the establishment of national standards on the Diaoyu Islands, the territory included in the matter submitted to the Cabinet meeting decided. January 11, 1895, Mutsu Munemitsu reply support. January 14 the same year, the Japanese cabinet secretly passed a resolution, the Diaoyu Islands "into the" Okinawa jurisdiction.
-Japan's official documents show that Japan began investigating the Diaoyu Islands from 1885 to 1895 accounted for officially burglary is always in secret, never publicly declared, thus further prove its claim of sovereignty over the Diaoyu Islands have no effect under international law.
-(B) the Diaoyu Islands with the island were forced to cede to Japan
-April 17, 1895, the Qing Dynasty was defeated in the Sino-Japanese War, was forced to sign the unequal "Treaty of Shimonoseki" with Japan, ceded "Taiwan island and all the affiliated islands." Diaoyu Islands and other as Taiwan's "affiliated islands" one was ceded to Japan. In 1900, Japan will Diaoyu renamed the "Senkaku Islands."
-Backroom deals
-
-After World War II, he returned to China the Diaoyu Islands. But in the 1950s, the United States without authorization will be hosting the Diaoyu Islands into its scope, the Diaoyu Islands 70 years the United States' application of the regime "," return "to Japan. United States and Japan on the Diaoyu Islands private deals, a serious violation of China's territorial sovereignty, is illegal, invalid, no it does not alter the fact that the Diaoyu Islands belong to China.
-(A) "World War II" after the return of Chinese Diaoyu Islands
-
-In December 1941, the Chinese government officially declared war on Japan, announced the abolition of all treaties between China and Japan. December 1943 "Cairo Declaration" expressly provides that "the territories Japan has stolen from the Chinese, such as the four northeastern provinces, Taiwan and the Penghu Islands, be returned ROC Other Japan by force or greed grabbing land, also works to Japan deported. " July 1945 "Potsdam Proclamation" Article VIII: "" Cairo Declaration "shall be carried out, and Japanese sovereignty shall be limited to Honshu, Hokkaido, Kyushu, Shikoku and such other islands as we determine." 1945. September 2, the Japanese government in the "Japanese surrender" clearly accepted the "Potsdam Proclamation" and promised faithfully fulfill the provisions of the "Potsdam Proclamation." January 29, 1946, "the Supreme Allied Command Instruction No. 677," clearly defines the Japanese regime included in the scope of application of the "four main islands of Japan (Hokkaido, Honshu, Kyushu, Shikoku) and includes all horses Island, latitude 30 degrees north of the island about 1000 near the Ryukyu Islands. " October 25, 1945, Chinese Theater surrender ceremony towards Japan, Taiwan Province held in Taipei, the Chinese government officially recovered Taiwan. September 29, 1972, the Japanese government in the "Sino-Japanese Joint Statement" solemn commitment to fully understand and respect China on Taiwan is an inalienable part of China's position, and adhere to the "Potsdam Proclamation" Article VIII of the position.
-These facts show that, according to the "Cairo Declaration", the "Potsdam Proclamation" and "Japanese surrender," the Diaoyu Islands as a subsidiary of Taiwan and Taiwan should be returned to China.
-(B) The United States hosted the scope of illegally included Diaoyu Islands
-September 8, 1951, United States and other countries in the case of exclusion of China, and Japan concluded the "San Francisco Peace Treaty" (the "San Francisco Peace Treaty"), the provisions of the southwestern islands of latitude 29 degrees south and so on by the United Nations trusteeship, while the US is the only policy authorities. It should be noted, by the United States hosted the southwestern islands of the Treaty is determined not include the Diaoyu Islands.
-
-February 29, 1952, December 25, 1953, Ryukyu Islands people the US government has issued 68 orders (the "Government of the Ryukyu Islands Chapter Code"), and 27 orders (ie on the "geographical boundary of the Ryukyu Islands" notices), without expand the scope of trusteeship, which included the Chinese territory Diaoyu Islands. The move has no legal basis, China is firmly opposed.
-(Iii) US-Japan private deals Diaoyu Islands "Shi regime"
-June 17, 1971, United States and Japan signed the "on the Ryukyu Islands and the Daito Islands Agreement" (referred to as "the return of Okinawa Agreement"), the Ryukyu Islands and the Diaoyu Islands, "Shi regime" "returned" to Japan. Chinese people at home and abroad this condemnation. December 30 the same year, Chinese Foreign Ministry issued a solemn statement said: "the United States and Japanese governments in the return of Okinawa agreement, the return of the Diaoyu Islands and other islands included in the area, is completely illegal, this does not change the People's Republic of China on the territorial sovereignty of the Diaoyu Islands and other islands. "The Taiwan authorities have also expressed strong opposition.
-Faced with strong opposition from the Chinese government and people, the United States had to publicly clarify its position on the issue of sovereignty over the Diaoyu Islands. October 1971, the US government, "said the regime applied to these islands made from original Japanese returned to Japan, no damage claims related to the sovereignty of the United States can not give the Japanese an increase in their application of the regime to hand over the islands to us legal rights owned before, nor since returned to Japan weakened the regime applied to the rights of other claimants. ...... this and other requirements of any disputed islands are parties to each other matters that should be addressed. " In the same year in November, the US Senate, "the return of Okinawa agreement," the US State Department said in a statement, although the regime applied to the United States returned to the islands of Japan, but in China and Japan's territorial claims to islands confrontational, the United States will take a neutral stance not biased in favor of any party to the dispute.
-Unfounded
-
-March 8, 1972, the Japanese Foreign Ministry issued "on the Senkaku Islands issue of ownership of the basic ideas," explained the Japanese government for sovereignty over the Diaoyu Islands issue proposition: First, the Diaoyu Islands as "terra nullius", are not included in the "Maguan Treaty "stipulated by the Qing government ceded to Japan within the scope of the Penghu Islands and the island of Taiwan and its subsidiaries. Second, the Diaoyu Islands are not included in the territory abandoned by Japan, "the San Francisco Peace Treaty" Article II of the, but included in the Treaty under Article southwestern islands as part of the US policy is placed under, and in accordance with "the return of Okinawa agreement" will be applied regime "return" within Japan region. Third, China has not considered part of the Diaoyu Islands, Taiwan, on the "San Francisco Peace Treaty" under Article within the Diaoyu Islands into the United States never raised any objections to the policy area.
-Japan advocates a serious breach of the above facts, is totally untenable.
-Diaoyu Islands belong to China, is not "terra nullius." In Japanese, "discovery" Before the Diaoyu Islands, the Diaoyu Islands have been Chinese for centuries implemented effective jurisdiction, are indisputable master of the Diaoyu Islands. As previously mentioned, a large number of official documents to prove Japan, Japan has long been completely clear of the Diaoyu Islands belongs to China, not terra nullius in international law. Japan called on the basis of "pre-emptive" principle will Diaoyu Islands as "terra nullius", "incorporated into" their territory, is illegal occupation of Chinese territory, does not have the force of international law.
-In terms of geographical or historical practice of the jurisdiction from China, the Diaoyu Islands have been affiliated islands China Taiwan Island. Japan, through unequal "Treaty of Shimonoseki," forcing the Qing Dynasty ceded including the Diaoyu "Taiwan island and all the affiliated islands." "Cairo Declaration", the "Potsdam Proclamation" and other international legal documents, Japan must unconditionally return their stolen Chinese territory. These documents also were clearly defined territory of Japan, which does not include the Diaoyu Islands. Japan tried to occupy the Diaoyu Islands, in essence, to the post-war international order "Cairo Declaration" and the "Potsdam Proclamation" and other legal documents established by the challenge, a serious breach of its obligations under international law, Japan should bear.
-Diaoyu Island and its affiliated islands map
-Hosted range sided Peace Treaty with Japan the United States and other countries signed the "San Francisco Peace Treaty" is not covered by the provisions of the Diaoyu Islands. Unauthorized expansion of the scope of the United States hosted, illegally Chinese territory Diaoyu Islands into them, after the Diaoyu Islands "Shi regime", "return" to Japan, do not have any legal basis, there is no validity in international law. For the US-Japan such illegal acts, the Chinese government and people have always been clearly opposed.
-
-For a long time, China has sovereignty over the Diaoyu Islands have been resolute struggle.
-Defend China's inherent territory - Diaoyu Islands
-China strongly protested through diplomatic channels and condemn US-Japan Diaoyu Islands backroom deals. August 15, 1951, before the San Francisco Conference, the Chinese government declared: "The preparation of the peace treaty with Japan, fiction and signed, if not participated in People's Republic of China, regardless of their content and the outcome, the Central People's Government Yigai considered illegal and therefore is invalid. "September 18, 1951, the Chinese government once again declared, stressing that" the San Francisco Peace Treaty "is illegal invalid and must not be recognized. 1971, for the United States and Japan Congress has approved the "return of Okinawa agreement" behavior, the Chinese Foreign Ministry solemn statement Diaoyu islands since ancient times is an inalienable part of Chinese territory.
-The Chinese government has taken against Japan violated Chinese sovereignty over the Diaoyu Islands illegal act positive and effective measures, through diplomatic statement issued on the date of submission of opposition and solemn representations to the United Nations and other initiatives note protest solemnly declare China's principled position has always advocated and resolutely safeguard China territorial sovereignty and maritime rights and interests, and earnestly safeguard the personal and property safety of Chinese citizens.
-China through domestic legislation clearly stipulates the Diaoyu Islands belong to China. In 1958, the Chinese government issued a statement territorial waters, declared Taiwan and its surrounding islands belong to China. For Japan since the 1970s, the Diaoyu Islands taken various violations, China promulgated the "People's Republic of China's territorial waters and the Contiguous Zone" in 1992, explicitly stipulates that "Taiwan and its subsidiaries including the Diaoyu islands" belong Chinese territory. "People's Republic of China on Island Protection Law" enacted in 2009, established the island to protect the development and management systems, to determine and publish the name of the island makes provision whereby China in March 2012 announced the Diaoyu Island and its affiliated islands part standard name. September 10, 2012, the Chinese government issued a statement, announced the Diaoyu Islands territorial sea baseline. September 13, the Chinese Government to the Secretary deposited with the Diaoyu Islands territorial sea baseline starting point coordinate tables and charts.
-
-China has always maintained a regular presence in the Diaoyu Islands waters, and jurisdiction. Chinese maritime surveillance law enforcement vessels adhere to the Diaoyu Islands waters cruise enforcement, fishery enforcement vessels in the waters of the Diaoyu Islands cruise normalization of law enforcement and fishing protection, maintain the normal sea fishery production order. China also through the issuance of weather forecasting and oceanographic observations on the implementation and management of the Diaoyu Islands and their adjacent waters.
-All along, the Diaoyu Islands issue of common concern by the Hong Kong and Macao compatriots, Taiwan compatriots and overseas Chinese. China's inherent territory since ancient times, the Diaoyu Islands, which is the common position of all Chinese people. The Chinese nation has a firm commitment to the maintenance of national sovereignty and territorial integrity. Compatriots on both sides in front of the national interests in jointly safeguard national interests and dignity, are consistent. Hong Kong, Macao and Taiwan compatriots and overseas Chinese at home and abroad have carried out various activities, safeguard the Diaoyu Islands territorial sovereignty, strongly expressed the Chinese people's righteous stance, determined to show the world the Chinese people love peace, safeguard national sovereignty, territorial integrity and defend will. [1] 
-
-Diaoyu Islands are China's inherent territory since ancient times, China has indisputable sovereignty over them. In the 1970s, when the Sino-Japanese normalization of diplomatic relations and the conclusion of "China-Japan Peace and Friendship Treaty", the two older generations of leaders focused overall bilateral relations, will be "the Diaoyu Islands issue put off until later resolved" to reach understanding and consensus. But in recent years, Japan on the Diaoyu Islands continues to take unilateral measures, especially on the implementation of the so-called Diaoyu Islands "nationalization" a serious violation of Chinese sovereignty, departing from the understanding and consensus reached by leaders of the older generation of the two countries. This not only seriously damaged the Sino-Japanese relations, but also on the outcome of the World Anti-Fascist War negation and challenges.
-China strongly urged Japan to respect history and international law, to immediately stop all acts of harm Chinese territorial sovereignty. Chinese government to safeguard national territorial sovereignty is unswerving determination and will, have the confidence and ability to defend national sovereignty and territorial integrity.
-
-September 25, 2012, the State Council Information Office of the People's Republic of China issued a "Diaoyu Islands are China's inherent territory" white paper. sovereignty.
-The white paper about 7,000 words, is divided into seven parts, a comprehensive explanation of the Diaoyu Islands are China's inherent territory, Japan stole the Diaoyu Islands, the US and Japan on the Diaoyu Islands private deals illegal invalid, Japan claims sovereignty over the Diaoyu Islands unfounded, China to safeguard the sovereignty of the Diaoyu Islands to fight resolutely against and so on.
-28 September 2012 "Diaoyu Islands are China's inherent territory" white paper, English and Japanese version of the official release, in which the Chinese edition was published by the People's Publishing House, English and Japanese version published by the Foreign Languages ​​Press.
-
-State Council Information Office of the People's Republic of China on the 25th issued a "Diaoyu Islands are China's inherent territory" white paper. The White Paper has aroused widespread concern in the international community, we have for the Chinese government highly appreciated this initiative.
-Law Brussels Institute of Contemporary China researcher at the Free University of Brussels, Belgium Zhang Lei at the interview with this reporter, said, "Diaoyu Islands are China's inherent territory" white paper from history, geography, legal point of view explain the Diaoyu Islands are China's inherent territory, China's Diaoyu Islands indisputable sovereignty over the Diaoyu Islands, Japan claims sovereignty unfounded. White paper as an official document to the world the Chinese government's stated position, declared the sovereignty detailed expounded China's sovereignty over the Diaoyu Islands historical and legal basis, profound attempt to expose the Japanese occupation of the Diaoyu Islands ambition, while expressing the Chinese government to solve the Diaoyu Islands determination and capacity issues. The White Paper will enhance the international community's understanding and awareness of the Diaoyu Islands issue, causing widespread concern in the international community, and will help to improve China's domestic public awareness of the Diaoyu Islands. This is China's sovereignty over the Diaoyu Islands is another strong safeguard measures.
-Hankuk University professor of international 康俊荣 told this reporter that, from a historical point of view, is undoubtedly the Chinese territory Diaoyu Islands. After the war, the United States in dealing with the issue of the Diaoyu Islands has taken an ambiguous attitude, so that Japan can take advantage of. Whenever difficulties in Japan, will take the issue to divert attention territorial disputes. China to take a tough stance also inevitable, for the territorial issue, no country will not budge. Kangjun Rong said that China and Japan are Asia's major powers, the two countries should resolve territorial disputes through negotiation. The Japanese government has deliberately evaded the issue, and stressed that Japan does not exist territory disputes, such an attitude does not really solve the problem, is not conducive to regional security and stability. In addition, in order to better resolve the territorial dispute, Japan to conduct a comprehensive history of the first response to deep introspection, or can not win the trust of other countries.
-Director of the Institute of Asia and globalization Jing Huang, National University of Singapore, in an interview with this reporter, said the white paper describes the three points: First, clear the Diaoyu Islands is Chinese territory since ancient times; secondly, the Diaoyu Islands are Japan with extremely disgraceful way to steal taken; and finally and most importantly, Japan, as a defeated nation in World War II, according to the "Cairo Declaration" and "Potsdam Proclamation" Article VIII, these islands are the property returned to the Chinese, if the Japanese want to steal the Diaoyu Islands as their own, in fact It is a challenge to the entire international order after World War II Pacific.
-World Politics and International Relations Institute of the Russian Academy of Sciences researcher, Evseev director of social and political research center, said the Chinese government has a series of reactions rationale, beneficial, festival. "Diaoyu Islands are China's inherent territory" white paper expounded the Chinese government's firm stance from the geography, history, legal point of view. Japan would like to steal possession means Chinese Diaoyu Islands are simply not legitimate. Evseev said that Japan would like to stir up the Diaoyu Islands issue to divert the internal conflicts does not work, the Sino-Japanese economic ties closer, Japan needs to cooperate with China in economy, if economic ties broken, the Japanese economy will be severely compromised.
-A well-known law professor, said Japan, China issued a "Diaoyu Islands are China's inherent territory" white paper, rational, evidence, decent, effective in articulating the Diaoyu Islands are China's inherent territory. On the one hand, the White Paper recognized in international law in favor of China has the absolute sovereignty of the Diaoyu Islands. On the other hand, it also helps Japanese people understand China's proposition, the Japanese people have the opportunity to know the ins and outs on the Diaoyu Islands issue and the real ownership of the Diaoyu Islands.
-New Japan JCC Chang Gung Institute deputy director, said the new Chinese government had from the overall situation, take shelve the controversial policy, did not want to affect Sino-Japanese relations. But the Japanese government some of the acts seriously violated China's territory and sovereignty. In view of this, China's State Council Information Office issued a white paper effectively safeguarding the interests of China, a strong response of the provocation of the Japanese side, help promote China-Japan relations back on the track of healthy development. White Paper release timing is very appropriate to help rein in the Japanese government, no longer come to their senses.
+此框架仅有一个文件，其中包含了MySQL数据库、上传文件、调试信息、导入依赖文件、
+模板和REST路由等一系列常用操作。适合用来快速写一些对性能要求不高的程序。
 
 
+初始化
+=============
 
-釣魚島は中国固有の領土でありの
-釣魚ホワイトペーパーと呼ばれる「釣魚島は中国固有の領土のです」。 2012釣魚島危機との関連で、中国政府は釣魚島の公式声明を発表しました。中国に記載されている「白書」は、最初に発見し、釣魚島の管轄下に証拠のシリーズを実装し、釣魚島と日本は違法要件の主権を否定しました。 「白書」も明らか釣魚島に米国と日本は、中国が認識されることはありません、完全に違法な密室のお得な情報であること。中国は釣魚島の主権に対する断固たる闘争を維持していきます。 2012年9月28日は、ホワイトペーパー、英語と公式リリースの日本語版「釣魚島は中国固有の領土のです」。
+首先新建一个`config.php`文件，所有程序通过加载该文件来进行配置及初始化：
 
-釣魚島とその関連島は中国の領土の不可分の一部です。歴史、地理のか、法的な観点から言えば、釣魚島は中国固有の領土のは、中国がその上議論の余地のない主権を持っています。
-1895年に釣魚島を盗むために中国と日本の使用が違法無効です。第二次世界大戦後、中国に戻って、「カイロ宣言」と「ポツダム宣言」やその他の国際的な法的文書、釣魚島によると。釣魚島の日本はいかなる一方的な措置をとることかどうか、我々は釣魚島が中国に属するという事実を変えることはできません。長い間、日本釣魚島問題について随時に迷惑を作成します。 2012年9月10日には、日本政府は釣魚島と提携南島、北島、いわゆるの実装の「購入」を発表しました「国有化」をこれは、中国の領土主権の重大な違反であり、歴史的事実と国際的正当性の重大な違反です。
-中国は断固として反対し、どのような方法が釣魚島を超える中国の主権を侵害する取るために日本を抑制する。釣魚島問題に関する中国の立場は国家主権と領土保全を守る、明確かつ一貫性のある確固として揺るぎない決意を世界反ファシスト戦争の勝利の成果を守ります。
-固有の領土
+```php
+<?php
+/**
+ * 配置文件
+ */
 
-釣魚島と中国、台湾島の北東部にその関連の島々は、経度東に位置して、台湾の島の子会社である123°20'-124°40 '、緯度25°40'-26°00'の釣魚島の間の海域、など黄色テール島、赤尾島、南の島、北島、南島、北島、ランタオ島を飛んで、
-約5.69平方キロメートルの総面積とリーフ、。釣魚島海域の西端に位置し、約3.91平方キロメートルの面積、海域で最大の島、362メートルのピーク立面図です。イエローテール島は北東釣魚島についての27キロ、約0.91平方キロメートルの面積に位置し、海の二番目に大きい島で、117メートルの最高標高です。赤尾は北東釣魚島は約110キロに位置し、地域内の最東端の島、約0.065平方キロメートルの面積、75メートルの最高標高です。
-###（A）中国は最初の名前、発見し、釣魚島を使用
-海洋および沖合漁業管理の実務に従事して古代中国の祖先は、最初は釣魚島を発見し、命名します。古代中国の文献では、釣魚島釣り島、釣魚台として知られています。現在釣魚島、赤尾および他の名前の最古の記録された歴史的な記録に見られ、それは1403（明永楽の治世）で本である「両手を風が。」これは、早ければ十四と15世紀のように、中国はすでに発見し、釣魚島と命名したことを示しています。
-1372（洪武5年）、明朝、朱Yuanzhangの使者に琉球王のトリビュートが沖縄に行きます。最後の500年の間に、明、清の裁判所は24使節が釣魚島をmakeが沖縄を通過列聖され、琉球王国の列聖に行ってきました送信した王朝（清朝同治五年）1866には、中国の特使に釣魚島に関する記録が大量に登場報告書。例えば、明チェンカンは、書籍「琉球を記録」（1534）列聖明らかに「琉球に所属している古代の米山を参照してください、赤、島の上に、ドブネズミ島の上に、漁業の島の上に......。「文書化明は、郭Rulinブック「琉球を記録」（1562）、レコード、列聖「赤い島琉球ローカル国境の山々を。」清は膵島pengjia、釣魚島、黄色テール島、赤尾島は、 "関係なく、米山（琉球西を取る琉球、花瓶島に福建省からフシ徐Baoguang帳」中山メッセージングレコード」（1719）明確に文書化し、列聖山の南の国境の町）、デント島、琉球那覇港で。」
-古代米山（もコウ米山、この久米島として知られている）琉球の領土であり、レッド島（今赤尾）に記録されているのXiangxian監督面した琉球国の1650年、琉球国の最初の公式の歴史」中山市カムを、 "と非琉球の領土のその西側。 1708は、琉球学者は、医師紫金チェン俊本は関係なく、米山のある、レコードを「ガイドは一般化 ""南西部の国境に琉球山間の町。 "
+// 当前应用的根目录
+define('APP_ROOT', dirname(__FILE__ ).'/');
+// 模板根目录
+define('APP_TEMPLATE_ROOT', APP_ROOT.'template/');
 
-明確に釣魚島、赤尾島上記の史料は中国に属し、久米島は琉球、赤尾と久米島黒溝間の境界線（現在の沖縄トラフ）に属しています。謝傑明フシは「Cangshuipuにブラックウォーターが所有している、ブラックウォーターにCangshuipuで行く。」、書籍「要約レコード琉球補遺」（1579年）の記録を列聖明が作る夏子阳本 "琉球を記録」（1606）、レコード、列聖「倉に黒からの水を、中国は世界になります。」王清は、シリーズの書籍「琉球寄せ集め」である赤い島 "黒溝」以外（1683）レコード、列聖"世界の外国人を。」黄周清は「劉の歴史」（1756）、レコード、琉球フシ帳を列聖 "黒海西側溝、および福建省の海の境界線。」
-釣魚島は、生産の分野で漁業活動に従事する中国の漁師の世代のために、中国の伝統的な漁場です。釣魚島は海のフラグとして、広く中国の南東部沿岸の人口の歴史の中で使用されてきました。
-長期的に実施するための釣魚島の管轄下に中国の###（B）
-戻る早い明代、防衛のための海賊の南東の海岸で、中国は釣魚島のゾーンに含まれます。 1561年（嘉靖四年）、胡Zongxianトップ将軍の南東海岸に沿って駐留明代はチェンは明代に含まれる「沿岸山砂マップ」への本、特に釣魚島 "コンパイルチップチャート」をまとめた議長を務めますハイフォンの範囲内です。 1605（明万里三〇から三年）徐ビダ、他は「宇宙統一ハイフォンマップ」描き、1621年（Tianqi在位）真央元の楽器描かれた中国のハイフォンマップ」Wubeiはハイフォン2を年報、福建省沿岸の山砂マップ」また、中国が含ま釣魚島の領海内であろう。
-清明は、中国の釣魚島や他の島ハイフォン範囲に含まれており、明示的に台湾の地方政府の行政管轄下に置かれ続け、練習に従っていないだけ。清朝、釣魚島の管轄下に例詳細な記録を「台湾の歴史」、「クラウチャーので、台湾海峡を記録」と他の公式文書。ハイフォンは、台湾政府カバランオフィス（現在台湾宜蘭県）管轄下に、釣魚島に駆けつけで1871年（清同治年）陳ShouqiとファンのBa 16他の "福建省の重いコンパイル史料」の公開されたコンパイルが含まれます。
-釣魚島の###（C）アイコンフィールドを描い中国に属しています
-1579年（明万里7年）シャオチョン明朝は業界の本は、1767年「チャートの上に琉球」、1629年（チョン年）真央るいZhengzhuanは「徐晃明呂のように」、書いた中で「琉球記録」列聖になります「くんゆうマップ」の（清朝乾隆帝3年）図面、1863年（清同治年）の印刷および「王朝の統一と外国マップ」などを公開し、中国の領土釣魚島に含まれています。
-釣魚島は1785林子平帳の日本初記録文書が図外琉球三〇から六で島を釣魚ます、参照 "琉球島州と三〇から六マップ」を「サムネイルを通じて三が言う」、およびであります中国本土は、中国の領土の一部として釣魚島を意味し、同じ色を、プロットしました。
 
-1809年フランスの地理学者ピエールのラビやその他の塗装「東シナ海沿岸国はマップ」、釣魚島、黄色テール島、赤尾をプロットし、同じ色の島。 1877年にイギリス海軍がまとめた米国はで出版され1859年に1811年にイギリスで出版され、「中国の最新の地図」、「中国の綿は、 "、"香港から遼東湾の東シナ海沿岸、チャート」と他のマップでは、中国の釣魚島に含まれています領土。
-盗んだ後
+// 输出调试信息，生成环境请去掉这行或设置为false
+define('APP_DEBUG', true);
 
-日本では明治維新後、外国の侵略の拡大を加速します。 1879年、日本が併合し、琉球沖縄県と改名。その後まもなく、釣魚島の日本の占領は、プロット、および地域」に「日清戦争の秘密の釣魚島の最後になります。その後、日本は不平等署名する中国を余儀なくされた「下関条約を、「台湾島と釣魚含むすべての提携島を割譲。
-日本の釣魚島を盗むために共謀の###（D）
 
-1884年、日本の主張は最初の釣魚島に上陸したと、として島を発見し、「無人島」。日本政府はすぐに釣魚島の秘密調査を実施し、侵入しようとします。日本は警戒を喚起するために、中国の試みを述べました。 1885年9月6日（光緒11年7月28日）「宣言」パブリッシュされたメッセージ：「台湾の島の北東側、それに掛かって日の丸がある最近では、大きな可能性を占めています。」中国の反応をらいため、日本政府は、軽率に行動する勇気がなかったです。
-1885年9月22日沖縄奉行釣魚島の秘密調査は親友エミリーヒル郡は家に報告した後にこれらの無人島」と「中山メッセンジャー」は釣魚台のレコードを記録し、黄色テール島と赤尾が同じに属している必要があります琉球はセーリングのロゴが行くように、それは国家のかしめの疑問、説明書の要求を確立する必要があるかどうかので、船が清によって列聖された島」とは、具体的に知っている、と名前を割り当てます。 10月9日に同じ年に、ハウス国家山形外国井上馨のコメントに手紙を送りました。 10月21日、井上薫山形はGBと他のイニシアチブ、明確な国家の嫉妬の確実なので、現在は、現地調査とその港の形状に関する詳細なレポートに限定する必要がある場合は公然と確立 "今、将来の保留中の開発がないことを答えます土地やその他の財産、およびラベルの創設と発展し始めたが、ますますマシンとなり、彼のために待つことができます。」井上薫も特に「調査が公式の新聞や新聞に掲載されたものへの恐怖が適切でない。」と強調しましたこのため、日本政府は、国家ステークス沖縄要求の確立に同意しませんでした。
-1890年1月13日、沖縄県、内務大臣に相談は、釣魚島「無人島としては、その管轄彼らは郡の管轄下八重山官公庁の管轄下に置かれる」、「要求を決定するためには至っていない。」と述べました国家標準を確立するために再び適用する沖縄県の1893年11月2日には、領土が含まれています。日本政府は、まだ応答していません。二ヶ月前、日清戦争、すなわち1894年5月12日、沖縄県秘密捜査で釣魚島が最終的にあると結論付けていない：明治18年（1885）パイン郡警察ので、さらに調査を行うために、もはや、島の検査を行うために " 、それは、より正確なレポートを提供することは困難である。......また、そこに古い楽器の島には記録がなく、ライセンスを取得した文字や所属する経口伝説の証拠が表示されます。」
+// MYSQL数据库配置，如果不定义数据库配置，则不自动连接数据库
+define('CONF_MYSQL_SERVER', 'localhost:3306');  // 服务器，默认为 localhost:3306
+define('CONF_MYSQL_USER',   'root');            // 用户名，默认为 root
+define('CONF_MYSQL_PASSWD', '123456');          // 密码，默认为空
+define('CONF_MYSQL_DBNAME', 'test');            // 数据库名，默认为空
+define('CONF_MYSQL_PERMANENT', false);          // 使用使用永久连接，默认false
 
-日本の外務省が「日本外交文書」は、明らかに日本の後に釣魚島を盗むための試みを文書化してコンパイル、明らかに関連する文書は、日本政府が釣魚島を切望するが、これらの島は中国に属していることを完全には明らかであるしたが、軽率に行動しない、ことを示しています。
-1894年7月には、日本が日清戦争を開始しました。 11月の終わりまでに、同じ年に、日本軍は中国ポートアーサーは、清の敗北が修正されました占領しました。この文脈では、12月27日に、インテリア靖野村大臣は釣魚島に関する国家基準の設定を必要とする、「過去と現在の状況が特別である」という外務大臣陸奥宗光に書いた、領土は閣議に提出事項に含まれて決定しました。 1895年1月11日、陸奥宗光はサポートを返信。 1月14日同年、日本の内閣は、密かに沖縄管轄」に "解像度、釣魚島を通過しました。
-日本の公式文書は、日本が公に釣魚島は国際法の下では効果がない上で一層主権の主張を証明する、と宣言することはありません、秘密に常に正式に強盗を占めて1895年に1885年から釣魚島を調査し始めたことを示しています。
-島と釣魚島の###（E）は日本に割譲を余儀なくされました
-清朝は、日清戦争で敗北した1895年4月17日は、割譲、日本との不平等」下関条約 "に署名することを余儀なくされた「台湾島とすべての加盟島。」釣魚島と台湾の "提携島」1などの他の日本に割譲されました。 1900年、日本は釣魚は「尖閣諸島」を名前に変更します
-密室のお得な情報
 
-第二次世界大戦後、彼は中国釣魚島に戻りました。しかし、1950年代に、許可のない米国は、その範囲に釣魚島、釣魚島政権日本へ」、「リターン」の70年米国のアプリケーションをホストしていることになります。釣魚島のプライベート情報も米国と日本、中国の領土主権の重大な違反は、無効、違法である、なしには釣魚島が中国に属するという事実を変えるものではありません。
-中国の釣魚島の復帰後の###（F）」、第二次世界大戦」
+// 载入slimphp并初始化
+require(APP_ROOT.'slimphp.php');
+APP::init();
+?>
+```
 
-1941年12月には、中国政府が公式に日本に戦争を宣言し、中国と日本の間のすべての条約の廃止を発表しました。 1943年12月、「カイロ宣言」は、明示的にもに動作しますが、そのような4東北地方など日本が中国から盗んだ領土は、台湾及び澎湖諸島は、土地をつかむ力や貪欲によってROCその他日本を返される」ことを提供します日本が強制送還しました。」 1945年7月、「ポツダム宣言」第8条：「「カイロ宣言」を実施しなければならない、と我々は判断するとして、日本の主権は本州、北海道、九州、四国、そのような他の島に限定されなければならない "1945。 9月2日、「日本降伏」で日本政府は明確に「ポツダム宣言」受け入れとの規定果たす忠実に約束した「ポツダム宣言」を1946年1月29日、「最高裁連合軍コマンドの命令番号677は、「明らかに日本の政権が日本（北海道、本州、九州、四国）の「4つの主要な島の適用範囲に含まれる定義し、すべての馬が含まれて島、琉球諸島の近くに1000年から約30度北島の緯度。」 1945年10月25日、日本、台湾省の方のチャイニーズシアターの降伏式典が台北で開催され、中国政府は公式に台湾を回復しました。 1972年9月29日、「中日共同声明」で日本政府は厳粛な約束を完全に理解し、台湾で中国を尊重する中国の立場の不可分の一部であり、位置の「ポツダム宣言」第8条に付着します。
-これらの事実は、「カイロ宣言」、「ポツダム宣言」と「日本降伏」によると、台湾と台湾の子会社として釣魚島は中国に返されるべきである、ことを示しています。
-###（VII）は、米国では違法に含ま釣魚島の範囲を開催しました
-1951年9月8日には、米国と中国の除外の場合は、他の国、日本はによってように29度南「サンフランシスコ平和条約」（「サンフランシスコ平和条約」）、緯度の南西諸島の規定を締結し、国連信託統治、米国が唯一の政策当局である間。米国は条約の南西部の島は釣魚島は含まれていませ決定されるホストされていることにより、それは、注意すべきです。
+在所有php程序中，均可载入`config.php`文件唉实现初始化slimphp：
 
-1952年2月29日、1953年12月25日、琉球人、米国政府はせずに、（すなわち通知「琉球列島の地理的境界」に関する）68注文（「琉球章コードの政府」）、および27の注文を発行しています中国の領土釣魚島が含まれていた、信託統治の範囲を拡大。動きは法的根拠を持っていない、中国はしっかりと反対しています。
-###（H）日米民間予約釣魚島「市政権」
-1971年6月17日、米国と日本は（「沖縄契約の復帰」という。）「琉球諸島及び大東諸島に関する協定」を締結し琉球諸島、釣魚島、「市の政権は「「日本に」戻りました。中国の人々この非難、国内外で。 12月30日同じ年、中国外務省は、厳粛な声明を発表し、言った： "米国と日本政府が沖縄契約の見返りに、釣魚島や他の島のリターンが領域に含まれる、完全に違法である、これは中国の人民共和国を変更することはありません釣魚島と他の島の領土主権。「台湾当局も強い反対を表明しています。
-中国政府と国民からの強い反対に直面して、米国は公的に釣魚島領有権の問題についての立場を明確にしなければなりませんでした。 1971年10月、米国政府は、「日本に戻った政権は、元日本から作られたこれらの島に適用すると述べ、日本に私たちに島を引き渡すための体制のそれらの適用の増加を与えることができない米国の主権に関連する一切の損害賠償請求しません法的権利は前所有、また日本に弱まっ返さ以来、政権は、他の請求者の権利に適用される。......いかなる係争の島のこのおよびその他の要件に対処する必要がある各その他の事項の当事者です。」政権は米国に適用されるものの、月、米上院で同じ年に「沖縄の合意の復帰、「米国務省は、日本の島に戻って、声明で述べているが、対立の島々への中国と日本の領土の特許請求の範囲において、米国は中立の立場を取ります紛争の当事者に有利にバイアスされていません。
-根拠のありま​​せん
+```php
+<?php
+require('config.php');
+// ...
+?>
+```
 
-1972年3月8日は、日本の外務省は、発行された「基本的な考え方の所有権の尖閣諸島問題について、「釣魚島問題の命題の主権のための日本政府の説明：まず、「テラnullius」、などの釣魚島は「Maguanに含まれていません清朝政府によって定められた条約は、「澎湖列島の範囲、台湾およびその子会社の島の中に日本に割譲しました。第二に、釣魚島は「サンフランシスコ講和条約」の第II条が、米国の政策の一環として条条約に含ま南西諸島を下にし、に従って配置され、日本が放棄した領土に含まれていません「沖縄の合意の復帰は「日本領域内の体制「リターン」が適用されます。第三に、中国は米国に釣魚島内の記事の下に「サンフランシスコ講和条約」に、釣魚島、台湾の一部とはみなされていない政策分野に異議を提起したことはありません。
-日本は、上記事実の重大な違反を主張し、完全に理不尽です。
-釣魚島は中国に属し、「無主の地」ではありません。日本では、釣魚島の前に「発見」、釣魚島は、効果的な管轄権を実装し、何世紀にもわたって中国をされている、釣魚島の議論の余地のマスターです。前述したように、日本を証明する公式文書が多数、日本は長い釣魚島の完全にクリアされている国際法におけるテラnulliusない、中国に属しています。日本は釣魚島自国の領土」に組み込まれた「「無主の地」として、中国の領土の不法占拠は、国際法の力を持っていないだろう "先制"の原則に基づいて呼ばれます。
-中国からの裁判権の地理や歴史的な実践の面では、釣魚島は島中国台湾島所属されています。清朝を強制的不平等を通じて日本、「下関条約は、「釣魚含む割譲「台湾島とすべての加盟島。」 「カイロ宣言」、「ポツダム宣言」やその他の国際的な法的文書は、日本が無条件に彼らの盗まれた中国の領土を返さなければなりません。また、これらの文書は明らかに釣魚島は含まれていない日本の領土を定義しました。日本は戦後の国際秩序日本が負担すべき「カイロ宣言」と「ポツダム宣言」と挑戦によって確立された他の法的文書、国際法の下での義務の重大な違反に、本質的には、釣魚島を占有しようとしました。
-釣魚島およびその関連島マップ
-ホストされている範囲は、米国およびその他の国は「サンフランシスコ講和条約」が釣魚島の規定でカバーされていない署名された日本との平和条約を味方しました。米国の範囲の無断拡大はそれらに違法、中国の領土釣魚島を開催し、日本の釣魚島「市政権」、「戻る」の後、任意の法的根拠を持っていない、国際法には有効期限がありません。日米など違法行為については、中国政府と人民は、常に明確に反対してきました。
 
-長い間、中国は釣魚島領有権は断固たる闘争していました。
-中国の固有の領土を守る - 釣魚諸島
-中国が強く外交ルートを通じて抗議し、日米釣魚島密室のお得な情報を非難します。 、「日本との平和条約の準備をフィクションと署名し、中国の人民共和国に参加していない場合は、その内容に関わらずと結果の、中央人民政府Yigaiは違法とみなさ：1951年8月15日は、サンフランシスコ会議の前に、中国政府は宣言しましたしたがって、無効です。サンフランシスコ平和条約」が無効、違法であると認識されてはならない」1951年9月18日には、中国政府は再びことを強調、宣言しました」。 1971年に、米国と日本議会のための行動「沖縄契約の復帰」を承認した、古くから中国外務省厳粛な声明釣魚島は中国の領土の不可分の一部です。
-中国政府は日本に対してとった抗議に注意して国連やその他のイニシアチブに反対し、厳粛な表現の提出日に発行された外交声明を通じて、釣魚島違法行為正かつ効果的な対策以上の中国の主権を侵害厳粛中国の原則的立場を常に提唱し、断固として中国を保護している宣言領土主権と海洋権益、くれぐれも中国市民の個人情報や財産の安全を守ります。
-国内の法律を通じ、中国は明らかに、釣魚島は中国に属して規定しています。 1958年、中国政府は、声明領海を発行し、台湾とその周辺の島々は中国に属していると宣言しました。日本の場合、1970年代から、釣魚島は様々な違反を取られ、中国は1992年に「中国の領海の人民共和国と連続ゾーン」を公布し、明示的に「台湾と釣魚島などの子会社が「属していることを規定しています中国の領土。 「中華人民共和国島保護法の「2009年に制定され、2012年3月、中国は釣魚島とその関連島々一部を発表することにより、島の名前を決定し、公開するために、開発と管理システムを保護するために島を設立規定を作ります標準名。 2012年9月10日には、中国政府は声明を発表し、釣魚島領海基線を発表しました。 9月13日には、釣魚島領海基線の出発点に寄託長官に中国政府は、表やグラフを調整します。
+REST路由
+===========
 
-中国は常に定期的に釣魚島海域でのプレゼンス、および管轄権を維持しています。中国の海洋監視法執行船は、法執行機関や漁業保護の釣魚島クルーズ正規の海域で釣魚島海域にクルーズ執行、漁業執行血管を付着、通常の海の漁業生産の秩序を維持します。また、天気予報や釣魚島とその近海の実装と管理上の海洋観測の発行を通じて中国。
-香港、マカオの同胞、台湾同胞と華僑によって共通の関心事のすべてに沿って、釣魚島問題。古くから中国の固有の領土、すべての中国の人々の共通の位置である釣魚島、。中華民族は国家主権と領土保全の維持に確固たるコミットメントを持っています。共同での国益の前の両側の同胞は、国益と尊厳を守る一致しています。香港、マカオ、台湾同胞と海外の中国国内でも国外では強く中国の人々の正義の立場を表明し、釣魚島領土主権を守る、さまざまな活動を行っている、中国の人々は平和を愛する世界に示す守る国家主権、領土保全をし、守るために決定ます。
+slimphp可以根据不同的请求方法来调用相应的处理函数完成请求，比如：
 
-釣魚島は古来より中国の固有の領土であり、中国はそれらの上に議論の余地のない主権を有しています。 1970年代、外交関係の中日正規化と「中日平和友好条約」の締結には、指導者の2古い世代は全体的な二国間関係は、到達するために「後で解決されるまで、釣魚島問題は先送り」されます焦点を当て理解と合意。しかし、近年では、釣魚島の日本は、両国の古い世代の指導者たちが到達した理解と合意を逸脱、特にいわゆる釣魚島「国有化」中国の主権の重大な違反の実装に、一方的な措置を講じ続けています。これは真剣に中日関係を破損していないだけでなく、世界反ファシスト戦争の否定と課題の結果に。
-中国が強く、すぐに害中国の領土主権のすべての行為を停止するには、歴史と国際法を尊重する日本を促しました。国家の領土主権を守るために中国政府は揺るぎない決意と意志で、自信と国家主権と領土保全を守るために能力を持っています。
+```php
+<?php
+require('config.php');
 
-2012年9月25日は、中華人民共和国国務院情報局は「釣魚島は中国固有の領土のある「ホワイトペーパーを発行しました。主権。
-ホワイトペーパー約7000の言葉は、7つの部分に分かれて、釣魚島の包括的な説明は、中国の固有の領土ですが、日本は中国が反対断固として戦うために釣魚島の主権を守るために、根拠のない釣魚島領有権を主張し、無効、違法釣魚島プライベートお得な情報で釣魚島、米国と日本を盗みましたように。 [4]
-2012年9月28日、ホワイトペーパー、英語と中国語版の人民出版社、英語と外国語プレスによって発行された日本語版によって公開された公式リリースの日本語版「釣魚島は中国固有の領土のです」。
+// 这里是公共部分的代码，所有请求方法都会执行下面的代码
+echo '所有请求方法都会执行这里的代码';
 
-中華人民共和国国務院情報局は「釣魚島は中国固有の領土のある「ホワイトペーパーを発行しました。白書は、国際社会で広く関心を呼んでいる、我々は中国政府のために非常にこのイニシアチブを高く評価しています。
-ブリュッセル自由大学で現代中国研究者の法律ブリュッセル研究所は、ベルギー張レイは、この記者とのインタビューで、歴史、地理からのホワイトペーパー、法的観点釣魚島は中国の固有の領土、中国の釣魚島です説明「釣魚島は中国の固有の領土です」と言いました釣魚島の上に議論の余地のない主権、日本は根拠のない主権を主張しています。ホワイトペーパー世界中国政府が表明した立場を公式文書として、釣魚島を解決するために、中国政府を表現しながら、詳細に説明主権は、釣魚島の歴史的、法的基盤の上に釣魚島野心の日本の占領を公開する深遠な試みを中国の主権を唱え宣言決意と能力の問題。白書は、国際社会での広範な懸念を引き起こし、国際社会の理解と釣魚島問題の意識を向上させますし、釣魚島の中国の国内国民の意識を向上させるのに役立ちます。これは釣魚島を超える中国の主権が別の強力なセーフガード措置です。
-国際康俊荣の韓国外国語大学教授は、歴史的観点から、間違いなく中国の領土釣魚島をである、この記者に語りました。日本はを利用できるように戦争の後、米国は釣魚島の問題に対処するには、曖昧な態度を取りました。たび日本での困難は、注目領土紛争をそらすために問題になります。また、避けられない強硬姿勢を取るために中国は、領土問題のために、どの国はびくともしないだろう。 Kangjun栄は、中国と日本は両国が交渉を通じて領土紛争を解決する必要があり、アジアの大国と言われています。日本政府が意図的にこの問題を回避し、日本は領土紛争が存在しません、そのような態度は本当に問題が解決されないことを強調し、地域の安全と安定に資するではありません。また、より良い領土問題を解決するために、日本は深い内省への最初の応答の包括的な歴史を実施する、またはその他の国の信頼を獲得することはできません。
-アジアとグローバル化ジン黄研究所、シンガポール国立大学のディレクターは、この記者とのインタビューで、ホワイトペーパーでは、3点を説明し、言った：まず、釣魚島をクリアすることは古くから中国の領土であり、第二に、釣魚島は盗むために非常に不名誉な方法で日本です撮影し、最後に、日本が自分自身のものとして釣魚島を盗みたい場合、最も重要なのは、日本は、第二次世界大戦で敗戦国として、「カイロ宣言」と「ポツダム宣言」第8条によると、これらの島々は、プロパティは、実際には、中国に返されますそれは第二次世界大戦後の太平洋全体の国際秩序への挑戦です。
-世界政治とロシア科学アカデミーの研究者の国際関係研究所、社会的、政治的な研究センターのEvseevディレクターは、中国政府が反応根拠、有益な、祭りのシリーズを持っていると述べました。 「釣魚島は中国固有の領土のある「ホワイトペーパーでは、ビューの地理、歴史、法的な観点から中国政府の確固たる立場を唱えました。日本が所持を盗むしたい中国の釣魚島は、単に合法的ではないことを意味します。 Evseevは、中日経済関係近い、日本は経済関係が壊れた場合、日本経済は深刻な危険にさらされる、経済の中で中国と協力する必要がある日本は動作しない内部対立をそらすために釣魚島問題をかき立てるしたいと述べました。
-よく知られている法学教授、日本は中国が釣魚島は中国固有の領土のある関節運動するのに有効なホワイトペーパー、合理的な、証拠、まともな、「釣魚島は中国固有の領土のです」発行、と述べました。一方で、中国の賛成で国際法で認められ白書は、釣魚島の主権絶対しています。一方、それはまた、日本人は中国の提案を理解するのに役立ちます、日本人は釣魚島問題のインとアウトを知る機会と釣魚島の本当の所有権を持っています。
-新日本JCC長庚研究所次長は、新しい中国政府は全体的な状況から言いました、論争の政策を棚上げ取り、中日関係に影響を与えたくありませんでした。しかし、日本政府は行為の一部は真剣に中国の領土と主権を侵害。そこで、中国の国務院情報局は、日本側の挑発の強い反応を効果的に中国の利益を保護するホワイトペーパーを発行し、バック健全な発展の軌道に乗って、中国と日本の関係を促進します。ホワイトペーパーのリリース時期は自分の感覚に来て、もはや、日本政府に手綱を助けるために非常に適切ではありません。
+// 定义处理GET请求的代码
+function method_get () {
+  echo 'GET请求方法的处理代码';
+}
+
+// 定义处理POST请求的代码
+function method_post () {
+  echo 'POST请求方法的处理代码';
+}
+
+// 定义处理DELETE请求的代码
+function method_delete () {
+  echo 'DELETE请求方法的处理代码';
+}
+
+// 定义处理PUT请求的代码
+function method_put () {
+  echo 'PUT请求方法的处理代码';
+}
+
+?>
+```
+
+
+操作MySQL数据库
+===============
+
+slimphp中提供了一个静态类 __SQL__ 来操作MySQL数据库：
+
+* `SQL::connect($server = 'localhost:3306', $username = 'root', $password = '',$database = '');`
+连接到数据库，当配置了数据库连接时，slimapp会自动执行此方法来连接到数据库，若你的
+程序中已经通过`mysql_connect`来创建了一个数据库连接，可以不用再执行此方法连接数
+据库；
+
+* `SQL::getAll($sql)` 或 `SQL::getData($sql)` 查询SQL，并返回数组格式的结果，
+失败返回`FALSE`；
+
+示例代码数据库如下：
+
+<table>
+<tr><td>titel</td><td>interpret</td><td>jahr</td><td>id</td></tr>
+<tr><td>Beauty</td><td>Ryuichi Sakamoto</td><td>1990</td><td>1</td></tr>
+<tr><td>Glee</td><td>Groove Armada</td><td>2001</td><td>4</td></tr>
+<tr><td>Glee</td><td>Bran Van 3000</td><td>1997</td><td>5</td></tr>
+</table>
+
+```php
+//数据库为cdcol,表为cds                       输出如下
+$sql = 'SELECT * FROM  `cds` LIMIT 0 , 30';  //title: titel     value: Beauty
+$query=SQL::getAll($sql);                    //title: interpret value: Ryuichi Sakamoto
+$query_first_array = $query[0];             //title: jahr      value: 1990
+echo '<br>';                                 //title: id        value: 1
+foreach($query_first_array as $k => $v){
+  echo 'title: '.$k.' <br>value: '.$v.'<br><br>';
+}
+```
+
+* `SQL::getOne($sql)` 或 `SQL::getLine($sql)` 查询SQL，仅返回第一条结果，
+失败返回`FALSE`；
+
+```php
+$sql = 'SELECT * FROM  `cds`';  //array(4) {  ["titel"]     => string(6) "Beauty" 
+$query=SQL::getOne($sql);       //            ["interpret"] => string(16)"Ryuichi Sakamoto" 
+var_dump($query);               //            ["jahr"]      => string(4) "1990" 
+                                //            ["id"]        => string(1) "1"                 }
+```
+
+* `SQL::update($sql)` 或 `SQL::runSql($sql)` 查询SQL，返回受影响的记录数，一般
+用于执行插入或更新操作；
+
+<table>
+<tr><td>titel</td><td>interpret</td><td>jahr</td><td>id</td></tr>
+<tr><td>Beauty</td><td>Ryuichi Sakamoto</td><td>1990</td><td>1</td></tr>
+<tr><td>Glee</td><td>Groove Armada</td><td>2001</td><td>4</td></tr>
+<tr><td>Glee</td><td>Bran Van 3000</td><td>1997</td><td>5</td></tr>
+<tr><td>Hello</td><td>My friends</td><td>2015</td><td>2</td></tr>
+</table>
+
+```php
+$sql = 'insert into cds(titel, interpret, jahr ,id) values("Hello", "My friends", 2015, 2)';
+$query = SQL::update($sql);
+var_dump($query);  //int(1) 返回受影响的记录数为1
+```
+
+* `SQL::id()` 或 `SQL::lastId()` 返回最后插入的一条记录的ID；
+
+```php
+$sql = 'insert into cds(titel, interpret, jahr ,id) values("Hello", "My friends", 2015, 6)';
+SQL::update($sql);
+$query = SQL::id();
+echo $query;
+```
+
+* `SQL::errno()` 返回最后执行的一条SQL语句的出错号
+
+```php
+$sql = 'insert into cds(titel, interpret, jahr ,id) values("Hello", "My friends, 2015, 10)';//错误的SQL语句
+SQL::update($sql);
+echo SQL::errno();//输出错误号 1064
+```
+
+* `SQL::errmsg()` 返回最后执行的一条SQL语句的出错信息
+
+```php
+$sql = 'insert into cds(titel, interpret, jahr ,id) values("Hello", "My friends, 2015, 10)';//错误的SQL语句
+SQL::update($sql);
+echo SQL::errmsg();//输出错误信息 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"My friends, 2015, 10)' at line 1
+```
+
+* `SQL::escape($str)` 返回安全的SQL字符串
+
+```php
+$escape="Da'Silva";          //放入要转义的字符串。
+$r = SQL::escape($escape);   //编码的字符是 NUL（ASCII 0）、\n、\r、\、'、" 和 Control-Z。
+echo $r;                     //输出Da\'Silva
+$sql = "insert into cds(titel, interpret, jahr ,id) values('{$r}', 'My friends', 2015, 10)";
+SQL::update($sql);           //不经过函数转义则报错
+```
+
+更简便的数据库操作：
+
+* `SQL::getAll($table, $where)` 查询所有记录，其中$table是表名，$where是一个条件
+数组，如：array('id' => 1)
+```php
+$prarm = array('id' => 4, 'jahr' => 2001);  //array(1) {[0] => array(4) {  
+                                            //["titel"]     => string(33)"Goodbye Country (Hello Nightclub)" 
+$query = SQL::getAll('cds', $prarm);        //["interpret"] => string(13)"Groove Armada" 
+//var_dump($query);                         //["jahr"]      => string(4) "2001" 
+echo $query2[0]['titel'];                   //["id"]        => string(1) "4"                              }}
+                                            //输出 Goodbye Country (Hello Nightclub)
+```
+* `SQL::getOne($table, $where)` 查询一条记录
+
+```php
+$prarm = array('id' => 4, 'jahr' => 2001);
+$query = SQL::getOne('cds', $prarm);
+var_dump($query);
+```
+
+* `SQL::update($table, $where, $update)` 更新记录并返回受影响的记录数，其中
+$update是要更新的数据数组，如：array('name' => 'haha')
+
+更改前的表
+<table>
+<tr><td>Glee </td><td>Groove Armada</td><td>2001</td><td>4</td></tr>
+</table>
+
+更改后的表
+<table>
+<tr><td>Hello</td><td>My friends   </td><td>2015</td><td>2</td></tr>
+</table>
+
+```php
+$prarm = array('titel' => 'Hello', 'interpret' => 'My friends', 'jahr' => '2015', 'id' => '2');
+                                                  //$update带要更新值的数组
+$prarm_where = array('id'=>'4');                  //$where 带判断值所在列的数组
+$query = SQL::update('cds',$prarm_where,$prarm);  //id为4的列，里面的值全部被重新更新了一遍
+```
+
+* `SQL::insert($table, $data)` 插入一条记录并返回其ID，其中$data是一个数组，
+如：array('name' => 'haha', 'age' => 20)
+
+```php
+$prarm = array('titel' => 'Hello', 'interpret' => 'My friends', 'jahr' => '2015', 'id' => '8');
+$query = SQL::insert('cds',$prarm);  //插入了一个新的列
+```
+
+* `SQL::delete($table, $where)` 删除记录
+
+```php
+$prarm = array('id' => '8');
+$query = SQL::delete('cds',$prarm);
+```
+
+条件格式：
+
+* 普通：`array('a' => 1, 'b' => 2)` 相当于 `a=1 AND b=2`
+
+* 指定连接操作符：`array('link' => 'OR', 'a' => 1, 'b' => 2)` 相当于 `a=1 OR b=2`
+
+* 指定比较操作符：`array('a' => array('>' => 2))` 相当于 `a>2`
+
+* 同一个字段多个条件：`array('a' => array('>' => 2, '<' => 5))` 相当于
+`(a>2 AND a < 5)`
+
+* 指定多个条件的连接操作符：`array('a' => array('link' => 'OR', '>' => 2, '<' => 5))` 
+相当于 `(a>2 OR a < 5)`
+
+
+上传文件操作
+===============
+
+slimphp中提供了一个静态类 __UPLOAD__ 来操作上传文件：
+
+* `UPLOAD::get($filename)` 返回指定名称的上传文件信息，该名称为`<form>`表单中的
+`<input type="file">`中的**name**值，该返回值为一个数组，包含以下项： __name__ 
+（名称）， __type__ （MIME类型）， __size__ （大小）， 
+__tmp_name__ （临时文件名）；
+
+* `UPLOAD::move($file, $target)` 移动上传的文件到指定位置，第一个参数为
+`UPLOAD::get($filename)`的返回值，第二个参数为目标文件名；
+
+
+调试信息操作
+=============
+
+slimphp中提供了一个静态类 __DEBUG__ 来操作调试信息，当定义了常量`APP_DEBUG`时，
+会在页面底部输出调试信息：
+
+* `DEBUG::put($msg = '', $title = '')` 输出调试信息
+
+<div>
+<pre>
+Debug Function method_get spent: 1ms 
+Total spent: 3ms
+<hr />
+[2ms] [MySQL] Connected: root@127.0.0.1:3306 spent: 2ms
+[2ms] [MySQL] charset=utf8
+[2ms] [MySQL] Query: DELETE FROM `cds` WHERE `id`='8' spent: 0ms
+[2ms] [MySQL] Close connection.
+</pre>
+</div>
+
+* `DEBUG::get()` 取调试信息
+
+* `DEBUG::clear()` 清除所有调试信息
+
+
+应用相关操作
+=============
+
+slimphp中提供了一个静态类 __APP__ 来进行应用相关的操作，及一些公共函数：
+
+* `APP::encryptPassword ($password)` 加密密码，返回一个加盐处理后的MD5字符串，
+如：`FF:15855D447208A6AB4BD2CC88D4B91732:83`；
+
+```php
+$password = APP::encryptPassword('123456');
+echo $password;
+```
+
+* `APP::validatePassword ($password, $encrypted)` 验证密码，第一个参数为待验证的
+密码，第二个参数为`APP::encryptPassword ($password)`返回的字符串，
+返回`TRUE`或`FALSE`；
+
+```php
+$password = APP::encryptPassword('123456');
+$encrypt = APP::validatePassword('123456', $password);
+var_dump($encrypt);  //bool(true)
+```
+
+* `APP::dump($var)` 打印变量结构，一般用于调试；
+
+```php
+$prarm = array('Hello', 'My friends', 2015, 2);  //Array( [0] => Hello  [1] => My friends
+APP::dump($prarm);                               //       [2] => 2015   [3] => 2 )
+```
+
+* `APP::showError($msg)` 显示出错信息
+
+<pre style='color: #900;
+            font-size: 16px;
+            border: 1px solid #900;
+            padding: 8px 12px;
+            border-radius: 5px;
+            margin: 12px 0px;'>连接失败</pre>
+
+```php
+$prarm = '连接失败';
+APP::showError($prarm);
+```
+
+* `APP::load($filename)` 载入依赖的php文件，若不指定后缀名，会自动加上`.php`，
+默认以当前php文件为根目录，若文件名以`/`开头，则以常量`APP_ROOT`定义的应用目录
+作为根目录；
+
+```php
+APP::load('../mobile');        //引入mobile.php的手机类文件
+var_dump(Mobile::isMobile());  //是手机访问则返回bool(true)
+```
+
+* `APP::sendJSON($data)` 返回JSON格式数据
+
+* `APP::sendError($msg, $data = array())` 返回JSON格式的出错信息：`{"error":"msg"}`
+
+* `APP::authEncode($string, $key, $expirey)` 加密账户验证信息，可指定过期时间
+
+* `APP::authDecode($string, $key)` 加密账户验证信息
+
+* `APP::getTemplate($name, $locals)` 载入模板文件，若不指定后缀名，会
+自动加上`.html`，以常量`APP_TEMPLATE_ROOT`定义的模板目录作为根目录，模板文件实际
+上为php程序文件，第二个参数为模板中可用的变量，在模板中通过`$locals`来读取（若
+无命名冲突也可以直接使用键名），返回渲染后的内容
+
+* `APP::setLocals($name, $value)` 设置模板变量
+
+* `APP::getLocals($name)` 取模板变量值
+
+* `APP::render($name, $locals, $layout = '')` 自动为`$locals`加上用
+`APP::setLocals()`设置的变量，并渲染模板。如果指定了视图模板`$layout`，则需要在
+视图模板中通过`$body`变量来获取模板内容。
+
+* `APP::init()` 初始化slimphp；
+
+* `APP::end()` 提前退出
+
+自动路由
+===========
+
+slimphp中提供了一个静态类 __ROUTER__ 来进行路由相关的操作：
+
+* `ROUTER::register($path, $function, $is_preg = false)` 注册中间件，其中`$path`
+为路径前缀，`$function`为要执行的函数，如果`$is_preg`为`true`表示`$path`是一个
+正则表达式
+
+* `ROUTER::run($dir, $path)` 执行自动路由。其中`$dir`是要自动加载的PHP文件所在
+的目录，以应用目录`APP_ROOT`中定义的目录为根目录，默认为`action`目录，`$path`是
+当前请求的路径，默认为`$_GET['__path__']`
+
+示例：
+
+应用统一入口文件：index.php
+
+```php
+<?php
+require('config.php');
+ROUTER::run('action', @$_GET['__path__']);
+?>
+```
+
+需要配置服务器的URL Rewrite，比如将 `/app/(.*)` 的所有请求转到
+`/app/index.php?__path__=$1`
+
+Apache的配置示例：
+
+```
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^app/(.*)$ /app/index.php?%{QUERY_STRING}&__path__=$1 [L]
+```
+
+Nginx的配置示例：
+
+```lua
+if (!-e $request_filename) {
+  rewrite "^/app/(.*)" "/app/index.php?%{QUERY_STRING}&__path__=$1" last;
+}
+```
+
+SAE的配置示例：
+
+```yaml
+handle:
+ - rewrite: if(!is_dir() && !is_file() && path~"^app/(.*)") goto "app/index.php?%{QUERY_STRING}&__path__=$1"
+```
+
+当请求 `/app/my/action` 时，会自动执行文件 `/action/my/action.php`
+
+如请求 `/app/my/action/` ，则自动执行文件 `/action/my/action/index.php`
