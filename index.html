@@ -20,7 +20,7 @@
 
     <section class="main-content">
       <h1>
-<a id="leiphp-微型的php框架" class="anchor" href="#leiphp-%E5%BE%AE%E5%9E%8B%E7%9A%84php%E6%A1%86%E6%9E%B6" aria-hidden="true"><span class="octicon octicon-link"></span></a>LeiPHP 微型的PHP框架</h1>
+<a id="slimphp-微型的php框架" class="anchor" href="#slimphp-%E5%BE%AE%E5%9E%8B%E7%9A%84php%E6%A1%86%E6%9E%B6" aria-hidden="true"><span class="octicon octicon-link"></span></a>SlimPHP 微型的PHP框架</h1>
 
 <p>此框架仅有一个文件，其中包含了MySQL数据库、上传文件、调试信息、导入依赖文件、
 模板和REST路由等一系列常用操作。适合用来快速写一些对性能要求不高的程序。</p>
@@ -53,12 +53,12 @@
 <span class="pl-s1"><span class="pl-c1">define</span>(<span class="pl-s"><span class="pl-pds">'</span>CONF_MYSQL_PERMANENT<span class="pl-pds">'</span></span>, <span class="pl-c1">false</span>);          <span class="pl-c">// 使用使用永久连接，默认false</span></span>
 <span class="pl-s1"></span>
 <span class="pl-s1"></span>
-<span class="pl-s1"><span class="pl-c">// 载入leiphp并初始化</span></span>
-<span class="pl-s1"><span class="pl-k">require</span>(<span class="pl-c1">APP_ROOT</span><span class="pl-k">.</span><span class="pl-s"><span class="pl-pds">'</span>leiphp.php<span class="pl-pds">'</span></span>);</span>
+<span class="pl-s1"><span class="pl-c">// 载入slimphp并初始化</span></span>
+<span class="pl-s1"><span class="pl-k">require</span>(<span class="pl-c1">APP_ROOT</span><span class="pl-k">.</span><span class="pl-s"><span class="pl-pds">'</span>slimphp.php<span class="pl-pds">'</span></span>);</span>
 <span class="pl-s1"><span class="pl-c1">APP</span><span class="pl-k">::</span>init();</span>
 <span class="pl-s1"></span><span class="pl-pse"><span class="pl-s1">?</span>&gt;</span></pre></div>
 
-<p>在所有php程序中，均可载入<code>config.inc.php</code>文件唉实现初始化leiphp：</p>
+<p>在所有php程序中，均可载入<code>config.inc.php</code>文件唉实现初始化slimphp：</p>
 
 <div class="highlight highlight-text-html-php"><pre><span class="pl-pse">&lt;?php</span><span class="pl-s1"></span>
 <span class="pl-s1"><span class="pl-k">require</span>(<span class="pl-s"><span class="pl-pds">'</span>config.inc.php<span class="pl-pds">'</span></span>);</span>
@@ -68,7 +68,7 @@
 <h1>
 <a id="rest路由" class="anchor" href="#rest%E8%B7%AF%E7%94%B1" aria-hidden="true"><span class="octicon octicon-link"></span></a>REST路由</h1>
 
-<p>leiphp可以根据不同的请求方法来调用相应的处理函数完成请求，比如：</p>
+<p>slimphp可以根据不同的请求方法来调用相应的处理函数完成请求，比如：</p>
 
 <div class="highlight highlight-text-html-php"><pre><span class="pl-pse">&lt;?php</span><span class="pl-s1"></span>
 <span class="pl-s1"><span class="pl-k">require</span>(<span class="pl-s"><span class="pl-pds">'</span>config.inc.php<span class="pl-pds">'</span></span>);</span>
@@ -101,11 +101,11 @@
 <h1>
 <a id="操作mysql数据库" class="anchor" href="#%E6%93%8D%E4%BD%9Cmysql%E6%95%B0%E6%8D%AE%E5%BA%93" aria-hidden="true"><span class="octicon octicon-link"></span></a>操作MySQL数据库</h1>
 
-<p>leiphp中提供了一个静态类 <strong>SQL</strong> 来操作MySQL数据库：</p>
+<p>slimphp中提供了一个静态类 <strong>SQL</strong> 来操作MySQL数据库：</p>
 
 <ul>
 <li><p><code>SQL::connect($server = 'localhost:3306', $username = 'root', $password = '',$database = '');</code>
-连接到数据库，当配置了数据库连接时，leiapp会自动执行此方法来连接到数据库，若你的
+连接到数据库，当配置了数据库连接时，slimapp会自动执行此方法来连接到数据库，若你的
 程序中已经通过<code>mysql_connect</code>来创建了一个数据库连接，可以不用再执行此方法连接数
 据库；</p></li>
 <li><p><code>SQL::getAll($sql)</code> 或 <code>SQL::getData($sql)</code> 查询SQL，并返回数组格式的结果，
@@ -332,7 +332,7 @@ $update是要更新的数据数组，如：array('name' =&gt; 'haha')</li>
 <h1>
 <a id="上传文件操作" class="anchor" href="#%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6%E6%93%8D%E4%BD%9C" aria-hidden="true"><span class="octicon octicon-link"></span></a>上传文件操作</h1>
 
-<p>leiphp中提供了一个静态类 <strong>UPLOAD</strong> 来操作上传文件：</p>
+<p>slimphp中提供了一个静态类 <strong>UPLOAD</strong> 来操作上传文件：</p>
 
 <ul>
 <li><p><code>UPLOAD::get($filename)</code> 返回指定名称的上传文件信息，该名称为<code>&lt;form&gt;</code>表单中的
@@ -346,7 +346,7 @@ $update是要更新的数据数组，如：array('name' =&gt; 'haha')</li>
 <h1>
 <a id="调试信息操作" class="anchor" href="#%E8%B0%83%E8%AF%95%E4%BF%A1%E6%81%AF%E6%93%8D%E4%BD%9C" aria-hidden="true"><span class="octicon octicon-link"></span></a>调试信息操作</h1>
 
-<p>leiphp中提供了一个静态类 <strong>DEBUG</strong> 来操作调试信息，当定义了常量<code>APP_DEBUG</code>时，
+<p>slimphp中提供了一个静态类 <strong>DEBUG</strong> 来操作调试信息，当定义了常量<code>APP_DEBUG</code>时，
 会在页面底部输出调试信息：</p>
 
 <ul>
@@ -374,7 +374,7 @@ Total spent: 3ms
 <h1>
 <a id="应用相关操作" class="anchor" href="#%E5%BA%94%E7%94%A8%E7%9B%B8%E5%85%B3%E6%93%8D%E4%BD%9C" aria-hidden="true"><span class="octicon octicon-link"></span></a>应用相关操作</h1>
 
-<p>leiphp中提供了一个静态类 <strong>APP</strong> 来进行应用相关的操作，及一些公共函数：</p>
+<p>slimphp中提供了一个静态类 <strong>APP</strong> 来进行应用相关的操作，及一些公共函数：</p>
 
 <ul>
 <li>
@@ -431,14 +431,14 @@ Total spent: 3ms
 <li><p><code>APP::render($name, $locals, $layout = '')</code> 自动为<code>$locals</code>加上用
 <code>APP::setLocals()</code>设置的变量，并渲染模板。如果指定了视图模板<code>$layout</code>，则需要在
 视图模板中通过<code>$body</code>变量来获取模板内容。</p></li>
-<li><p><code>APP::init()</code> 初始化leiphp；</p></li>
+<li><p><code>APP::init()</code> 初始化slimphp；</p></li>
 <li><p><code>APP::end()</code> 提前退出</p></li>
 </ul>
 
 <h1>
 <a id="自动路由" class="anchor" href="#%E8%87%AA%E5%8A%A8%E8%B7%AF%E7%94%B1" aria-hidden="true"><span class="octicon octicon-link"></span></a>自动路由</h1>
 
-<p>leiphp中提供了一个静态类 <strong>ROUTER</strong> 来进行路由相关的操作：</p>
+<p>slimphp中提供了一个静态类 <strong>ROUTER</strong> 来进行路由相关的操作：</p>
 
 <ul>
 <li><p><code>ROUTER::register($path, $function, $is_preg = false)</code> 注册中间件，其中<code>$path</code>
@@ -482,11 +482,6 @@ RewriteRule ^app/(.*)$ /app/index.php?%{QUERY_STRING}&amp;__path__=$1 [L]
 <p>当请求 <code>/app/my/action</code> 时，会自动执行文件 <code>/action/my/action.php</code></p>
 
 <p>如请求 <code>/app/my/action/</code> ，则自动执行文件 <code>/action/my/action/index.php</code></p>
-
-<h1>
-<a id="授权" class="anchor" href="#%E6%8E%88%E6%9D%83" aria-hidden="true"><span class="octicon octicon-link"></span></a>授权</h1>
-
-<p>基于MIT协议发布。</p>
 
       <footer class="site-footer">
         <span class="site-footer-owner"><a href="https://github.com/AutumnsWind/Kingold">Slim框架</a> is maintained by <a href="https://github.com/AutumnsWind">AutumnsWind</a>.</span>
