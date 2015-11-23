@@ -273,15 +273,45 @@
 $update是要更新的数据数组，如：array('name' =&gt; 'haha')</li>
 </ul>
 
+<p>更改前的表</p>
+
+<table>
+<tr>
+<td>Glee</td>
+<td>Groove Armada</td>
+<td>2001</td>
+<td>4</td>
+</tr>
+</table>
+
+<p>更改后的表</p>
+
+<table>
+<tr>
+<td>Hello</td>
+<td>My friends</td>
+<td>2015</td>
+<td>2</td>
+</tr>
+</table>
+
 <div class="highlight highlight-text-html-php"><pre><span class="pl-s1"><span class="pl-smi">$prarm</span> <span class="pl-k">=</span> <span class="pl-c1">array</span>(<span class="pl-s"><span class="pl-pds">'</span>titel<span class="pl-pds">'</span></span> <span class="pl-k">=&gt;</span> <span class="pl-s"><span class="pl-pds">'</span>Hello<span class="pl-pds">'</span></span>, <span class="pl-s"><span class="pl-pds">'</span>interpret<span class="pl-pds">'</span></span> <span class="pl-k">=&gt;</span> <span class="pl-s"><span class="pl-pds">'</span>My friends<span class="pl-pds">'</span></span>, <span class="pl-s"><span class="pl-pds">'</span>jahr<span class="pl-pds">'</span></span> <span class="pl-k">=&gt;</span> <span class="pl-s"><span class="pl-pds">'</span>2015<span class="pl-pds">'</span></span>, <span class="pl-s"><span class="pl-pds">'</span>id<span class="pl-pds">'</span></span> <span class="pl-k">=&gt;</span> <span class="pl-s"><span class="pl-pds">'</span>2<span class="pl-pds">'</span></span>);</span>
-<span class="pl-s1">                                                 <span class="pl-c">//$update带要更新值的数组</span></span>
-<span class="pl-s1"><span class="pl-smi">$prarm_where</span> <span class="pl-k">=</span> <span class="pl-c1">array</span>(<span class="pl-s"><span class="pl-pds">'</span>id<span class="pl-pds">'</span></span><span class="pl-k">=&gt;</span><span class="pl-s"><span class="pl-pds">'</span>4<span class="pl-pds">'</span></span>);                 <span class="pl-c">//$where 带判断值所在列的数组</span></span>
-<span class="pl-s1"><span class="pl-smi">$query</span> <span class="pl-k">=</span> <span class="pl-c1">SQL</span><span class="pl-k">::</span>update(<span class="pl-s"><span class="pl-pds">'</span>cds<span class="pl-pds">'</span></span>,<span class="pl-smi">$prarm_where</span>,<span class="pl-smi">$prarm</span>); <span class="pl-c">//id为4的列，里面的值全部被重新更新了一遍</span></span></pre></div>
+<span class="pl-s1">                                                  <span class="pl-c">//$update带要更新值的数组</span></span>
+<span class="pl-s1"><span class="pl-smi">$prarm_where</span> <span class="pl-k">=</span> <span class="pl-c1">array</span>(<span class="pl-s"><span class="pl-pds">'</span>id<span class="pl-pds">'</span></span><span class="pl-k">=&gt;</span><span class="pl-s"><span class="pl-pds">'</span>4<span class="pl-pds">'</span></span>);                  <span class="pl-c">//$where 带判断值所在列的数组</span></span>
+<span class="pl-s1"><span class="pl-smi">$query</span> <span class="pl-k">=</span> <span class="pl-c1">SQL</span><span class="pl-k">::</span>update(<span class="pl-s"><span class="pl-pds">'</span>cds<span class="pl-pds">'</span></span>,<span class="pl-smi">$prarm_where</span>,<span class="pl-smi">$prarm</span>);  <span class="pl-c">//id为4的列，里面的值全部被重新更新了一遍</span></span></pre></div>
 
 <ul>
-<li><p><code>SQL::insert($table, $data)</code> 插入一条记录并返回其ID，其中$data是一个数组，
-如：array('name' =&gt; 'haha', 'age' =&gt; 20)</p></li>
-<li><p><code>SQL::delete($table, $where)</code> 删除记录</p></li>
+<li>
+<code>SQL::insert($table, $data)</code> 插入一条记录并返回其ID，其中$data是一个数组，
+如：array('name' =&gt; 'haha', 'age' =&gt; 20)</li>
+</ul>
+
+<div class="highlight highlight-text-html-php"><pre><span class="pl-s1"><span class="pl-smi">$prarm</span> <span class="pl-k">=</span> <span class="pl-c1">array</span>(<span class="pl-s"><span class="pl-pds">'</span>titel<span class="pl-pds">'</span></span> <span class="pl-k">=&gt;</span> <span class="pl-s"><span class="pl-pds">'</span>Hello<span class="pl-pds">'</span></span>, <span class="pl-s"><span class="pl-pds">'</span>interpret<span class="pl-pds">'</span></span> <span class="pl-k">=&gt;</span> <span class="pl-s"><span class="pl-pds">'</span>My friends<span class="pl-pds">'</span></span>, <span class="pl-s"><span class="pl-pds">'</span>jahr<span class="pl-pds">'</span></span> <span class="pl-k">=&gt;</span> <span class="pl-s"><span class="pl-pds">'</span>2015<span class="pl-pds">'</span></span>, <span class="pl-s"><span class="pl-pds">'</span>id<span class="pl-pds">'</span></span> <span class="pl-k">=&gt;</span> <span class="pl-s"><span class="pl-pds">'</span>8<span class="pl-pds">'</span></span>);</span>
+<span class="pl-s1"><span class="pl-smi">$query</span> <span class="pl-k">=</span> <span class="pl-c1">SQL</span><span class="pl-k">::</span>insert(<span class="pl-s"><span class="pl-pds">'</span>cds<span class="pl-pds">'</span></span>,<span class="pl-smi">$prarm</span>);  <span class="pl-c">//插入了一个新的列</span></span></pre></div>
+
+<ul>
+<li>
+<code>SQL::delete($table, $where)</code> 删除记录</li>
 </ul>
 
 <p>条件格式：</p>
