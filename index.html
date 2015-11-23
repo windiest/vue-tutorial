@@ -28,7 +28,7 @@
 <h1>
 <a id="初始化" class="anchor" href="#%E5%88%9D%E5%A7%8B%E5%8C%96" aria-hidden="true"><span class="octicon octicon-link"></span></a>初始化</h1>
 
-<p>首先新建一个<code>config.inc.php</code>文件，所有程序通过加载该文件来进行配置及初始化：</p>
+<p>首先新建一个<code>config.php</code>文件，所有程序通过加载该文件来进行配置及初始化：</p>
 
 <div class="highlight highlight-text-html-php"><pre><span class="pl-pse">&lt;?php</span><span class="pl-s1"></span>
 <span class="pl-s1"><span class="pl-c">/**</span></span>
@@ -58,10 +58,10 @@
 <span class="pl-s1"><span class="pl-c1">APP</span><span class="pl-k">::</span>init();</span>
 <span class="pl-s1"></span><span class="pl-pse"><span class="pl-s1">?</span>&gt;</span></pre></div>
 
-<p>在所有php程序中，均可载入<code>config.inc.php</code>文件唉实现初始化slimphp：</p>
+<p>在所有php程序中，均可载入<code>config.php</code>文件唉实现初始化slimphp：</p>
 
 <div class="highlight highlight-text-html-php"><pre><span class="pl-pse">&lt;?php</span><span class="pl-s1"></span>
-<span class="pl-s1"><span class="pl-k">require</span>(<span class="pl-s"><span class="pl-pds">'</span>config.inc.php<span class="pl-pds">'</span></span>);</span>
+<span class="pl-s1"><span class="pl-k">require</span>(<span class="pl-s"><span class="pl-pds">'</span>config.php<span class="pl-pds">'</span></span>);</span>
 <span class="pl-s1"><span class="pl-c">// ...</span></span>
 <span class="pl-s1"></span><span class="pl-pse"><span class="pl-s1">?</span>&gt;</span></pre></div>
 
@@ -71,7 +71,7 @@
 <p>slimphp可以根据不同的请求方法来调用相应的处理函数完成请求，比如：</p>
 
 <div class="highlight highlight-text-html-php"><pre><span class="pl-pse">&lt;?php</span><span class="pl-s1"></span>
-<span class="pl-s1"><span class="pl-k">require</span>(<span class="pl-s"><span class="pl-pds">'</span>config.inc.php<span class="pl-pds">'</span></span>);</span>
+<span class="pl-s1"><span class="pl-k">require</span>(<span class="pl-s"><span class="pl-pds">'</span>config.php<span class="pl-pds">'</span></span>);</span>
 <span class="pl-s1"></span>
 <span class="pl-s1"><span class="pl-c">// 这里是公共部分的代码，所有请求方法都会执行下面的代码</span></span>
 <span class="pl-s1"><span class="pl-c1">echo</span> <span class="pl-s"><span class="pl-pds">'</span>所有请求方法都会执行这里的代码<span class="pl-pds">'</span></span>;</span>
@@ -454,7 +454,7 @@ Total spent: 3ms
 <p>应用统一入口文件：index.php</p>
 
 <div class="highlight highlight-text-html-php"><pre><span class="pl-pse">&lt;?php</span><span class="pl-s1"></span>
-<span class="pl-s1"><span class="pl-k">require</span>(<span class="pl-s"><span class="pl-pds">'</span>config.inc.php<span class="pl-pds">'</span></span>);</span>
+<span class="pl-s1"><span class="pl-k">require</span>(<span class="pl-s"><span class="pl-pds">'</span>config.php<span class="pl-pds">'</span></span>);</span>
 <span class="pl-s1"><span class="pl-c1">ROUTER</span><span class="pl-k">::</span>run(<span class="pl-s"><span class="pl-pds">'</span>action<span class="pl-pds">'</span></span>, <span class="pl-k">@</span><span class="pl-smi">$_GET</span>[<span class="pl-s"><span class="pl-pds">'</span>__path__<span class="pl-pds">'</span></span>]);</span>
 <span class="pl-s1"></span><span class="pl-pse"><span class="pl-s1">?</span>&gt;</span></pre></div>
 
