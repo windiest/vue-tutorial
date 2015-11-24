@@ -1,34 +1,25 @@
 <!DOCTYPE html>
-<html>
+<html lang="en-us">
   <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <link href='https://fonts.googleapis.com/css?family=Architects+Daughter' rel='stylesheet' type='text/css'>
+    <meta charset="UTF-8">
+    <title>Slim框架 by AutumnsWind</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
     <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
-    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print">
-
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-
-    <title>Slim框架 by AutumnsWind</title>
   </head>
-
   <body>
-    <header>
-      <div class="inner">
-        <h1>Slim框架</h1>
-        <h2>适合用来快速编写大部分后台程序</h2>
-        <a href="https://github.com/AutumnsWind/SlimPHP" class="button"><small>View project on</small> GitHub</a>
-      </div>
-    </header>
+    <section class="page-header">
+      <h1 class="project-name">Slim框架</h1>
+      <h2 class="project-tagline">适合用来快速编写大部分后台程序</h2>
+      <a href="https://github.com/AutumnsWind/SlimPHP" class="btn">View on GitHub</a>
+      <a href="https://github.com/AutumnsWind/SlimPHP/zipball/master" class="btn">Download .zip</a>
+      <a href="https://github.com/AutumnsWind/SlimPHP/tarball/master" class="btn">Download .tar.gz</a>
+    </section>
 
-    <div id="content-wrapper">
-      <div class="inner clearfix">
-        <section id="main-content">
-          <h1>
+    <section class="main-content">
+      <h1>
 <a id="slimphp-微型的php框架" class="anchor" href="#slimphp-%E5%BE%AE%E5%9E%8B%E7%9A%84php%E6%A1%86%E6%9E%B6" aria-hidden="true"><span class="octicon octicon-link"></span></a>SlimPHP 微型的PHP框架</h1>
 
 <p>此框架仅有一个文件，其中包含了MySQL数据库、上传文件、调试信息、导入依赖文件、
@@ -351,7 +342,12 @@ $update是要更新的数据数组，如：array('name' =&gt; 'haha')</li>
 <strong>tmp_name</strong> （临时文件名）；</p></li>
 <li><p><code>UPLOAD::move($file, $target)</code> 移动上传的文件到指定位置，第一个参数为
 <code>UPLOAD::get($filename)</code>的返回值，第二个参数为目标文件名；</p></li>
+<li><p><code>UPLOAD::getExtension('app.php')</code> 参数为文件名
+<code>UPLOAD::get($filename)</code>的返回值为文件名后缀；
+echo UPLOAD::getExtension('app.php');  //输出php</p></li>
 </ul>
+
+<div class="highlight highlight-text-html-php"><pre><span class="pl-s1"></span></pre></div>
 
 <h1>
 <a id="调试信息操作" class="anchor" href="#%E8%B0%83%E8%AF%95%E4%BF%A1%E6%81%AF%E6%93%8D%E4%BD%9C" aria-hidden="true"><span class="octicon octicon-link"></span></a>调试信息操作</h1>
@@ -478,6 +474,19 @@ Total spent: 3ms
 <p>需要配置服务器的URL Rewrite，比如将 <code>/app/(.*)</code> 的所有请求转到
 <code>/app/index.php?__path__=$1</code></p>
 
+<h1>
+<a id="字符串" class="anchor" href="#%E5%AD%97%E7%AC%A6%E4%B8%B2" aria-hidden="true"><span class="octicon octicon-link"></span></a>字符串</h1>
+
+<p>slimphp中提供了一个字符串处理类 <strong>STRING</strong> 来进行应用相关的操作，及一些公共函数：</p>
+
+<ul>
+<li>
+<code>STRING::randomString ($password)</code> 返回一个随机生成的字符串，
+如：<code>cPjsKSZX</code>；</li>
+</ul>
+
+<div class="highlight highlight-text-html-php"><pre><span class="pl-s1"><span class="pl-c1">echo</span> <span class="pl-c1">STRING</span><span class="pl-k">::</span>random_string(<span class="pl-s"><span class="pl-pds">'</span>alpha<span class="pl-pds">'</span></span>, <span class="pl-s"><span class="pl-pds">'</span>8<span class="pl-pds">'</span></span>);  <span class="pl-c">//输出一个为八位的随机字符串</span></span></pre></div>
+
 <p>Apache的配置示例：</p>
 
 <pre><code>RewriteCond %{REQUEST_FILENAME} !-f
@@ -499,24 +508,14 @@ RewriteRule ^app/(.*)$ /app/index.php?%{QUERY_STRING}&amp;__path__=$1 [L]
 <p>当请求 <code>/app/my/action</code> 时，会自动执行文件 <code>/action/my/action.php</code></p>
 
 <p>如请求 <code>/app/my/action/</code> ，则自动执行文件 <code>/action/my/action/index.php</code></p>
-        </section>
 
-        <aside id="sidebar">
-          <a href="https://github.com/AutumnsWind/SlimPHP/zipball/master" class="button">
-            <small>Download</small>
-            .zip file
-          </a>
-          <a href="https://github.com/AutumnsWind/SlimPHP/tarball/master" class="button">
-            <small>Download</small>
-            .tar.gz file
-          </a>
+      <footer class="site-footer">
+        <span class="site-footer-owner"><a href="https://github.com/AutumnsWind/SlimPHP">Slim框架</a> is maintained by <a href="https://github.com/AutumnsWind">AutumnsWind</a>.</span>
 
-          <p class="repo-owner"><a href="https://github.com/AutumnsWind/SlimPHP"></a> is maintained by <a href="https://github.com/AutumnsWind">AutumnsWind</a>.</p>
+        <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a> using the <a href="https://github.com/jasonlong/cayman-theme">Cayman theme</a> by <a href="https://twitter.com/jasonlong">Jason Long</a>.</span>
+      </footer>
 
-          <p>This page was generated by <a href="https://pages.github.com">GitHub Pages</a> using the Architect theme by <a href="https://twitter.com/jasonlong">Jason Long</a>.</p>
-        </aside>
-      </div>
-    </div>
+    </section>
 
             <script type="text/javascript">
             var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
