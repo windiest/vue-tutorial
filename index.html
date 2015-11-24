@@ -343,11 +343,10 @@ $update是要更新的数据数组，如：array('name' =&gt; 'haha')</li>
 <li><p><code>UPLOAD::move($file, $target)</code> 移动上传的文件到指定位置，第一个参数为
 <code>UPLOAD::get($filename)</code>的返回值，第二个参数为目标文件名；</p></li>
 <li><p><code>UPLOAD::getExtension('app.php')</code> 参数为文件名
-<code>UPLOAD::get($filename)</code>的返回值为文件名后缀；
-echo UPLOAD::getExtension('app.php');  //输出php</p></li>
+<code>UPLOAD::get($filename)</code>的返回值为文件名后缀；</p></li>
 </ul>
 
-<div class="highlight highlight-text-html-php"><pre><span class="pl-s1"></span></pre></div>
+<div class="highlight highlight-text-html-php"><pre><span class="pl-s1"><span class="pl-c1">echo</span> <span class="pl-c1">UPLOAD</span><span class="pl-k">::</span>getExtension(<span class="pl-s"><span class="pl-pds">'</span>app.php<span class="pl-pds">'</span></span>);  <span class="pl-c">//输出php</span></span></pre></div>
 
 <h1>
 <a id="调试信息操作" class="anchor" href="#%E8%B0%83%E8%AF%95%E4%BF%A1%E6%81%AF%E6%93%8D%E4%BD%9C" aria-hidden="true"><span class="octicon octicon-link"></span></a>调试信息操作</h1>
