@@ -422,9 +422,3 @@ handle:
 当请求 `/app/my/action` 时，会自动执行文件 `/action/my/action.php`
 
 如请求 `/app/my/action/` ，则自动执行文件 `/action/my/action/index.php`
-
->开了交流群啦，欢迎加入交流心得
->
->http://jq.qq.com/?_wv=1027&k=iRLQRp
->
->QQ群365780609
